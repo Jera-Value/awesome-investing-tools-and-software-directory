@@ -1,32 +1,29 @@
-# +271 Awesome Investing Tools for Investors
+# 📈 +271 Awesome Investing Tools for Investors
 
-> Curated list of investment tools, datasets, and research portals.
+> Curated list of investment tools, datasets, and research portals. 🧰
 
-Powered by [Find My Moat](https://findmymoat.com): The best collection of investing tools for investors.
+🏰 Powered by [Find My Moat](https://findmymoat.com): The best collection of investing tools for investors.
 
-**Quick Stats**
-- Total tools: 271
-- Sections: 15
 
 ## Contents
 
 | Section | Tools |
 | --- | ---: |
-| [Research & Valuation](#research-and-valuation) | 21 |
-| [Filings & Transcripts](#filings-and-transcripts) | 7 |
-| [Ownership & Holders](#ownership-and-holders) | 12 |
-| [Market Data & Alerts](#market-data-and-alerts) | 73 |
-| [Screening & Discovery](#screening-and-discovery) | 87 |
-| [Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
-| [Options & Derivatives](#options-and-derivatives) | 4 |
-| [Trading & Brokerage](#trading-and-brokerage) | 17 |
-| [ETFs & Funds](#etfs-and-funds) | 1 |
-| [Automation & APIs](#automation-and-apis) | 6 |
-| [Compliance](#compliance) | 6 |
-| [Crypto & On-chain](#crypto-and-on-chain) | 2 |
-| [Education & Community](#education-and-community) | 8 |
-| [Calculators](#calculators) | 1 |
-| [Other](#other) | 2 |
+| [📊 Research & Valuation](#research-and-valuation) | 21 |
+| [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
+| [👥 Ownership & Holders](#ownership-and-holders) | 12 |
+| [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
+| [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
+| [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
+| [⚙️ Options & Derivatives](#options-and-derivatives) | 4 |
+| [💹 Trading & Brokerage](#trading-and-brokerage) | 17 |
+| [🧺 ETFs & Funds](#etfs-and-funds) | 1 |
+| [🤖 Automation & APIs](#automation-and-apis) | 6 |
+| [🛡️ Compliance](#compliance) | 6 |
+| [🔗 Crypto & On-chain](#crypto-and-on-chain) | 2 |
+| [🎓 Education & Community](#education-and-community) | 8 |
+| [🧮 Calculators](#calculators) | 1 |
+| [✨ Other](#other) | 2 |
 
 ---
 
