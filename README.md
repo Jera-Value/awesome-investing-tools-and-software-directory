@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -21,7 +21,7 @@
 | [🤖 Automation & APIs](#automation-and-apis) | 6 |
 | [🛡️ Compliance](#compliance) | 6 |
 | [🔗 Crypto & On-chain](#crypto-and-on-chain) | 2 |
-| [🎓 Education & Community](#education-and-community) | 8 |
+| [🎓 Education & Community](#education-and-community) | 9 |
 | [🧮 Calculators](#calculators) | 1 |
 | [✨ Other](#other) | 2 |
 
@@ -371,7 +371,7 @@
 
 ---
 
-### Education & Community (8)
+### Education & Community (9)
 
 - [10X EBITDA - Hedge Fund Presentations](https://www.10xebitda.com/hedge-fund-presentations/) - Free, browser-based library of value-oriented and activist hedge fund pitch decks curated by 10X EBITDA as a study resource for students and early-career...
 - [Corner of Berkshire & Fairfax (COBF)](https://thecobf.com) - A long-standing value-investing forum founded in 2009, with public boards and members-only sections. Membership is a one-time lifetime fee of $49.99, purchased...
@@ -381,6 +381,7 @@
 - [Ticker Notes](https://ticker-notes.com/landing) - Login-gated, ticker-centric social note-taking network for investors-positioned as a cleaner, discovery-friendly alternative to 'Fintwit'. The landing page...
 - [ValuePickr Forum](https://forum.valuepickr.com) - Public, community-run forum centered on Indian mid- and small-cap equities. Built on Discourse, it is open to read by anyone, while posting requires an...
 - [Wealth Hub - Hedge Fund Letters](https://miltonfmr.com/hedge-fund-letters/) - Free public index of hedge fund investor letters organized by quarter. Each entry links to Dropbox folders maintained by the site, giving readers direct access...
+- [KeepRule](https://keeprule.com) - Free, searchable database of 1,377 investment principles from 26 legendary investors including Buffett, Munger, Dalio, and Marks. Features AI-powered chat to explore investing wisdom, psychology tests, and side-by-side master comparisons. No login required for browsing.
 
 [Back to contents](#contents)
 
