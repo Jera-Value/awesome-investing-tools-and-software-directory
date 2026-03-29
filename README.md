@@ -11,7 +11,7 @@
 | --- | ---: |
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
-| [👥 Ownership & Holders](#ownership-and-holders) | 12 |
+| [👥 Ownership & Holders](#ownership-and-holders) | 13 |h
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
@@ -69,10 +69,11 @@
 
 ---
 
-### Ownership & Holders (12)
+### Ownership & Holders (13)
 
 - [Capitol Trades](https://www.capitoltrades.com) - Free, public dashboard tracking U.S. politicians' trade disclosures under the STOCK Act. Near real-time postings of newly published disclosures, with rich...
 - [CEO Watcher](https://www.ceowatcher.com) - US-insider trade discovery & ranking tool. CEO Watcher calculates historical forward returns after insiders' trades (e.g., 1m/3m/6m/1y) and uses this to rank...
+- [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered platform that ingests U.S. STOCK Act disclosures (publicly filed lawmaker trades) and converts them into machine-scored trade signals for retail investors. The AI "Brain" analyzes every disclosed trade and scores it for signal strength based on bipartisan activity, committee overlap, timing metrics, and sector concentration. Features a full trade feed, sector heatmap, member profiles, and smart alerts. Free tier available; Pro at $7.77/month.
 - [Fintel](https://fintel.io) - Platform for ownership, filings, short interest, and options sentiment with broad global coverage. Plans range from Free through Bronze, Silver, and Gold, with...
 - [HedgeFollow](https://hedgefollow.com) - Tracks hedge fund and insider activity from SEC filings (13F/13D/13G/Form 4). Includes a fast insider-trading tracker (updated ~every 5 minutes), a hedge-fund...
 - [HighShortInterest.com](https://www.highshortinterest.com) - A simple, free website that lists U.S. stocks with short interest above 20%. The site is read-only, organized by exchange, and doesn't require accounts or offer...
