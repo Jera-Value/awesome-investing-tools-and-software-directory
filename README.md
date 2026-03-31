@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -12,7 +12,7 @@
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
-| [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
+| [📡 Market Data & Alerts](#market-data-and-alerts) | 74 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
 | [⚙️ Options & Derivatives](#options-and-derivatives) | 4 |
@@ -88,7 +88,7 @@
 
 ---
 
-### Market Data & Alerts (73)
+### Market Data & Alerts (74)
 
 - [Alpha Vantage](https://www.alphavantage.co) - Exchange-licensed, API-first market data provider for global equities, ETFs, mutual funds, FX, crypto, options, commodities and macro indicators. Free key...
 - [Bank of England (Statistics & Data)](https://www.bankofengland.co.uk) - Free central bank data portal covering UK interest rates, yield curves, macroeconomic indicators, and daily reference series. The Statistical Database supports...
@@ -143,6 +143,7 @@
 - [Open Payments (CMS)](https://openpaymentsdata.cms.gov) - U.S. federal open-data program (Affordable Care Act 'Sunshine Act') that publishes financial relationships between drug/device manufacturers (and GPOs) and...
 - [OpenCorporates](https://opencorporates.com) - The world's largest open database of legal entities, offering both a public-facing search and an API. Free access is available for personal or public-benefit...
 - [OTC Markets](https://www.otcmarkets.com) - Primary operator and market data source for U.S. OTC equities via OTC Link ATS/ECN/NQB (SEC-regulated ATSs). Commercial data products include Real-Time Level 1+...
+- [PredScope](https://predscope.com) - Free prediction market analytics platform tracking 1,000+ Polymarket events with live odds, market statistics, historical data, and educational guides. Includes free JSON APIs for developers and an embeddable widget. No account required.
 - [PwC - IPO Watch EMEA (all editions)](https://www.pwc.co.uk/services/audit/insights/ipo-watch-emea/all-editions.html) - Quarterly publication tracking the volume and value of IPOs across EMEA's principal stock markets. Compiled by PwC's London capital markets team, it covers new...
 - [RetailRoadshow](https://www.retailroadshow.com) - SEC-compliant portal for viewing 'retail' electronic roadshows-video presentations from issuer executives during registered offerings (primarily IPOs; can...
 - [Reuters](https://www.reuters.com) - Reuters is a global news site with a dedicated Markets section covering equities, bonds, currencies, and commodities. Company pages feature charts, financials,...
