@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -22,7 +22,7 @@
 | [🛡️ Compliance](#compliance) | 6 |
 | [🔗 Crypto & On-chain](#crypto-and-on-chain) | 2 |
 | [🎓 Education & Community](#education-and-community) | 8 |
-| [🧮 Calculators](#calculators) | 1 |
+| [🧮 Calculators](#calculators) | 2 |
 | [✨ Other](#other) | 2 |
 
 ---
@@ -386,9 +386,10 @@
 
 ---
 
-### Calculators (1)
+### Calculators (2)
 
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) - A free interactive calculator for projecting savings growth with compound interest. Designed for educational use only-NerdWallet emphasizes it does not provide...
+- [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/) - Free, open-source SEC filing fee worksheet using the FY2026 fee rate, with local browser-only calculation plus memo and EX-FILING-FEES CSV export.
 
 [Back to contents](#contents)
 
