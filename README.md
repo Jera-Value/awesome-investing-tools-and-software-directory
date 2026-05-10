@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -12,7 +12,7 @@
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
-| [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
+| [📡 Market Data & Alerts](#market-data-and-alerts) | 74 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
 | [⚙️ Options & Derivatives](#options-and-derivatives) | 4 |
@@ -88,8 +88,9 @@
 
 ---
 
-### Market Data & Alerts (73)
+### Market Data & Alerts (74)
 
+- [Adanos Market Sentiment API](https://adanos.org/) - API-first U.S. stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for research apps, trading tools, dashboards, and automation workflows.
 - [Alpha Vantage](https://www.alphavantage.co) - Exchange-licensed, API-first market data provider for global equities, ETFs, mutual funds, FX, crypto, options, commodities and macro indicators. Free key...
 - [Bank of England (Statistics & Data)](https://www.bankofengland.co.uk) - Free central bank data portal covering UK interest rates, yield curves, macroeconomic indicators, and daily reference series. The Statistical Database supports...
 - [Bank of Japan (BOJ) - Statistics & Monetary Policy](https://www.boj.or.jp/en/index.htm) - Japan's central bank portal for monetary policy releases and official statistics. The BOJ-STAT database provides searchable time series, and bulk 'Flat File'...
