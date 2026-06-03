@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -11,7 +11,7 @@
 | --- | ---: |
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
-| [👥 Ownership & Holders](#ownership-and-holders) | 12 |
+| [👥 Ownership & Holders](#ownership-and-holders) | 13 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
@@ -69,9 +69,10 @@
 
 ---
 
-### Ownership & Holders (12)
+### Ownership & Holders (13)
 
 - [Capitol Trades](https://www.capitoltrades.com) - Free, public dashboard tracking U.S. politicians' trade disclosures under the STOCK Act. Near real-time postings of newly published disclosures, with rich...
+- [Congressional Trader](https://congressional-trader.com/congressional-stock-trading-tracker) - Searchable tracker for U.S. congressional stock trading disclosures under the STOCK Act. Lets users explore lawmaker trades by politician, ticker, state,...
 - [CEO Watcher](https://www.ceowatcher.com) - US-insider trade discovery & ranking tool. CEO Watcher calculates historical forward returns after insiders' trades (e.g., 1m/3m/6m/1y) and uses this to rank...
 - [Fintel](https://fintel.io) - Platform for ownership, filings, short interest, and options sentiment with broad global coverage. Plans range from Free through Bronze, Silver, and Gold, with...
 - [HedgeFollow](https://hedgefollow.com) - Tracks hedge fund and insider activity from SEC filings (13F/13D/13G/Form 4). Includes a fast insider-trading tracker (updated ~every 5 minutes), a hedge-fund...
