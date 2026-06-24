@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -10,7 +10,7 @@
 | Section | Tools |
 | --- | ---: |
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
-| [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
+| [🧾 Filings & Transcripts](#filings-and-transcripts) | 8 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
@@ -55,7 +55,7 @@
 
 ---
 
-### Filings & Transcripts (7)
+### Filings & Transcripts (8)
 
 - [AlphaSense](https://www.alpha-sense.com) - AlphaSense is an enterprise-grade market intelligence platform that combines a massive library of filings, research, transcripts, and news with AI-powered...
 - [Diffchecker](https://www.diffchecker.com) - Diffchecker is a comparison tool for text, images, PDFs, Excel files, and folders. The free Basic plan is web-only, while Pro + Desktop adds offline diffs,...
@@ -64,6 +64,7 @@
 - [Fintool](https://fintool.com) - AI-powered research platform combining SEC filings, earnings transcripts, and financial data with natural-language querying. Two tiers: Regular includes...
 - [In Practise](https://inpractise.com) - A research library of executive interviews created for long-term fundamental investors. The free plan (forever free) includes around 40+ interviews per year and...
 - [Tegus](https://www.tegus.com) - Tegus is a unified research platform that blends expert-call transcripts, SEC filings, financial models, and benchmarking dashboards into one workflow. It...
+- [Forensic by FilingFirehose](https://filingfirehose.com/forensic) - Bear-case risk scoring for any US-listed ticker, built on 3 years of SEC filings. Surfaces bankruptcy notices (Item 1.03), delisting notices (Item 3.01), restatements (Item 4.02), officer departures, and dilution events (S-3, 424B5, ATM) with verifiable EDGAR accession numbers. Free per-ticker page; paid plans add monitoring + alerts.
 
 [Back to contents](#contents)
 
