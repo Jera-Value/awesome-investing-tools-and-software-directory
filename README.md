@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -9,7 +9,7 @@
 
 | Section | Tools |
 | --- | ---: |
-| [📊 Research & Valuation](#research-and-valuation) | 21 |
+| [📊 Research & Valuation](#research-and-valuation) | 22 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
@@ -27,7 +27,7 @@
 
 ---
 
-### Research & Valuation (21)
+### Research & Valuation (22)
 
 - [Asset Allocation Interactive (AAI) - Research Affiliates](https://interactive.researchaffiliates.com/asset-allocation) - A free interactive platform that publishes Research Affiliates' capital market expectations each month. You can explore expected returns, correlations, and...
 - [Calcbench](https://www.calcbench.com) - SEC-filings and earnings-release data platform built for analysts. Coverage includes as-reported financial statements, footnotes/disclosures text, segments &...
@@ -48,6 +48,7 @@
 - [QuickFS](https://quickfs.net) - Global fundamentals platform focused on long-history financial statements and ratios. Free tier gives on-site annual data (10y). Premium and API unlock 20-year...
 - [Roic AI](https://www.roic.ai) - Roic AI offers financial data, transcripts, screeners, and exports under a tiered plan structure. Free users get US-only annual financials with no downloads....
 - [Trefis](https://www.trefis.com) - Interactive valuation platform where you can build, adjust, and share stock models. It supports a full Excel round-trip (download your scenarios into Excel;...
+- [ValuationBot](https://valuationbot.ai) - AI stock valuation and equity research software for public-equity investors. It reads company filings, cleans financials, builds scenario-based DCF valuations, and produces investment memos plus editable Excel models. Research Desk adds always-on regional market coverage for fresh valuation-backed ideas.
 - [Visible Alpha](https://visiblealpha.com) - Granular, line-item consensus from full sell-side models (7,000+ companies; 250+ contributing brokers) with VA Actuals historicals, Excel add-in, and enterprise...
 - [Visual Capitalist](https://www.visualcapitalist.com) - Publisher of striking, data-driven infographics and explainers on business, markets, and the global economy. Their premium tier, VC+, offers exclusive research...
 
