@@ -11,7 +11,7 @@
 | --- | ---: |
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
-| [👥 Ownership & Holders](#ownership-and-holders) | 12 |
+| [👥 Ownership & Holders](#ownership-and-holders) | 13 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
@@ -69,7 +69,7 @@
 
 ---
 
-### Ownership & Holders (12)
+### Ownership & Holders (13)
 
 - [Capitol Trades](https://www.capitoltrades.com) - Free, public dashboard tracking U.S. politicians' trade disclosures under the STOCK Act. Near real-time postings of newly published disclosures, with rich...
 - [CEO Watcher](https://www.ceowatcher.com) - US-insider trade discovery & ranking tool. CEO Watcher calculates historical forward returns after insiders' trades (e.g., 1m/3m/6m/1y) and uses this to rank...
@@ -80,6 +80,7 @@
 - [Insider Monitor](https://www.insider-monitor.com) - Free, U.S.-focused insider-trading tracker centered on SEC Forms 3/4/5. Provides near-real-time ('minutes or seconds' after filing) feeds of insider...
 - [InsiderScore (VerityData | InsiderScore)](https://www.insiderscore.com) - Institutional-grade datasets and research on insider transactions (Form 4), stock buybacks/authorizations, management changes, and institutional holdings...
 - [ORTEX](https://public.ortex.com) - Analytics platform focused on short interest and securities lending, with additional coverage of options flow, insider trades, analyst views, and index...
+- [PortfolioSavvy](https://portfoliosavvy.com/) - Public SEC ownership research pages for 13F holders, CUSIP ownership history, insider activity, and 13D/G filings.
 - [SecForm4.Com](https://www.secform4.com) - A US-focused insider trading and ownership tracking service with real-time alerts, institutional dashboards, and specialized screeners. Plans gate access to...
 - [Wall St. Rank](https://www.wallstrank.com) - Fund- and analyst-consensus explorer with an API. Core pillars: 13F-based fund portfolios & trends (incl. new/closed/increased/reduced positions and...
 - [WhaleWisdom](https://whalewisdom.com/) - Aggregates 13F filings and insider transactions so investors can follow institutional positioning, build watchlists, and backtest crowding strategies.
