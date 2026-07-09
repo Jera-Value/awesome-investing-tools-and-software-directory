@@ -22,7 +22,7 @@
 | [🛡️ Compliance](#compliance) | 6 |
 | [🔗 Crypto & On-chain](#crypto-and-on-chain) | 2 |
 | [🎓 Education & Community](#education-and-community) | 8 |
-| [🧮 Calculators](#calculators) | 1 |
+| [🧮 Calculators](#calculators) | 2 |
 | [✨ Other](#other) | 2 |
 
 ---
