@@ -22,7 +22,7 @@
 | [🛡️ Compliance](#compliance) | 6 |
 | [🔗 Crypto & On-chain](#crypto-and-on-chain) | 2 |
 | [🎓 Education & Community](#education-and-community) | 8 |
-| [🧮 Calculators](#calculators) | 1 |
+| [🧮 Calculators](#calculators) | 2 |
 | [✨ Other](#other) | 2 |
 
 ---
@@ -389,6 +389,7 @@
 ### Calculators (1)
 
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) - A free interactive calculator for projecting savings growth with compound interest. Designed for educational use only-NerdWallet emphasizes it does not provide...
+- [Calcrux](https://calcrux.com) - Free calculator suite for personal finance, investing, and Indian business planning. Covers SIP, compound interest, EMI, GST, and income tax calculations, with no signup required.
 
 [Back to contents](#contents)
 
