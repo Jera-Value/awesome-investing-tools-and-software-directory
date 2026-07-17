@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +270 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -10,7 +10,7 @@
 | Section | Tools |
 | --- | ---: |
 | [📊 Research & Valuation](#research-and-valuation) | 21 |
-| [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
+| [🧾 Filings & Transcripts](#filings-and-transcripts) | 6 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
@@ -55,11 +55,10 @@
 
 ---
 
-### Filings & Transcripts (7)
+### Filings & Transcripts (6)
 
 - [AlphaSense](https://www.alpha-sense.com) - AlphaSense is an enterprise-grade market intelligence platform that combines a massive library of filings, research, transcripts, and news with AI-powered...
 - [Diffchecker](https://www.diffchecker.com) - Diffchecker is a comparison tool for text, images, PDFs, Excel files, and folders. The free Basic plan is web-only, while Pro + Desktop adds offline diffs,...
-- [edmundSEC](https://www.edmundsec.com) - A web-based platform built around SEC filings and earnings call transcripts. Features include AI-powered search, single-document Q&A, and transcript summaries....
 - [FinancialReports.eu](https://financialreports.eu) - Real-time European filings database and API. Covers 4M+ filings across ~16.6k listed companies in 44 markets, with processing typically <5 minutes after...
 - [Fintool](https://fintool.com) - AI-powered research platform combining SEC filings, earnings transcripts, and financial data with natural-language querying. Two tiers: Regular includes...
 - [In Practise](https://inpractise.com) - A research library of executive interviews created for long-term fundamental investors. The free plan (forever free) includes around 40+ interviews per year and...
