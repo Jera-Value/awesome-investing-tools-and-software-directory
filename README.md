@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -13,7 +13,7 @@
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
-| [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
+| [🔎 Screening & Discovery](#screening-and-discovery) | 88 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
 | [⚙️ Options & Derivatives](#options-and-derivatives) | 4 |
 | [💹 Trading & Brokerage](#trading-and-brokerage) | 17 |
@@ -168,7 +168,7 @@
 
 ---
 
-### Screening & Discovery (87)
+### Screening & Discovery (88)
 
 - [Alpha Spread](https://www.alphaspread.com) - Stock-valuation platform centered on intrinsic value. Combines DCF and relative valuation into a scenario range (bear/base/bull), adds Wall Street...
 - [AmiBroker](https://www.amibroker.com) - Windows desktop platform for technical/system research with a fast AFL scripting language, portfolio-level backtester, walk-forward testing, Monte Carlo, and...
@@ -218,6 +218,7 @@
 - [Portfolio123](https://www.portfolio123.com) - Rules-based quant research and portfolio-management platform. Free Manage module covers multi-account tracking, watchlists, and broker connectivity, while paid...
 - [Prospero.ai](https://www.prospero.ai) - Mobile-first AI signals app for U.S. stocks & ETFs. Offers 10 proprietary signals (5 short-term: Net Options Sentiment, Net Social Sentiment, Net Institutional...
 - [QuantConnect](https://www.quantconnect.com) - QuantConnect runs on the open-source LEAN engine, giving quants and systematic traders a unified workflow from research to backtesting to live deployment. You...
+- [Quantral](https://quantral.com) - Investment ideas app (iOS, Android, web) that tracks curated finance voices across X, Reddit, and financial news, scores every stock 0-100 from the chatter, and grades each voice's public track record against actual price moves. Subscription with a 7-day free trial.
 - [QuantRocket](https://www.quantrocket.com) - A Docker-based research, backtesting, and live-trading platform built around Jupyter. The free tier is limited to research, while paid plans unlock live and...
 - [Quiver Quantitative](https://www.quiverquant.com) - Premium unlocks stock screeners, alerts, backtesters for Congress and institutional trades, strategy dashboards, Smart Score/Bull-Bear ratings, customizable...
 - [Reflexivity](https://reflexivity.com) - Reflexivity is a sales-led enterprise platform (annual subscription) designed for institutions. Deep Research features are still in beta and not enabled for all...
