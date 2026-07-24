@@ -54,6 +54,7 @@
 [Back to contents](#contents)
 
 ---
+- [FN2](https://fn2.ai) - AI market analyst for investors. Personalized daily briefings, deep stock research, and scheduled agents that monitor watchlists and earnings. Free tier.
 
 ### Filings & Transcripts (7)
 
