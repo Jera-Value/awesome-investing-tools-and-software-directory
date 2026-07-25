@@ -388,6 +388,8 @@
 
 ### Calculators (1)
 
+- [My AI Investment OS](https://ordinarymantrying.com/tools/ai-invest-os.html) - Free 5-question investing school diagnostic (Index/Value/Growth/Trend) + AI Prompt Library + 6 companion tools (DCA Simulator, Kelly Master, Dividend Engine, Recovery Navigator, Pyramid Builder, Portfolio Clarity). No login required.
+
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) - A free interactive calculator for projecting savings growth with compound interest. Designed for educational use only-NerdWallet emphasizes it does not provide...
 
 [Back to contents](#contents)
