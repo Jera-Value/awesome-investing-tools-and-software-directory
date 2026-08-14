@@ -388,7 +388,7 @@
 
 ### Calculators (2)
 
-- [Cost Seg Tool](https://costsegtool.com) - Free cost segregation calculator for US real estate investors. Estimates year-1 federal tax savings from accelerated depreciation under MACRS by reclassifying building components into 5-, 7-, and 15-year asset classes. Built on the same engine behind Cost Seg Smart's IRS-defensible studies; methodology aligned with IRS Pub 946 and Rev. Proc. 87-56. No signup. Open-data benchmark dataset (n=260 studies, CC-BY 4.0) at [costsegsmart.com/research/benchmarks-2026/](https://costsegsmart.com/research/benchmarks-2026/).
+- [Cost Seg Tool](https://costsegtool.com) - Free cost segregation calculator for US real estate investors. Estimates year-1 federal tax savings from accelerated depreciation under MACRS by reclassifying building components into 5-, 7-, and 15-year asset classes. Built on the same engine behind Cost Seg Smart's audit-defensible studies; methodology aligned with IRS Pub 946 and Rev. Proc. 87-56. No signup. Open-data benchmark dataset (n=260 studies, CC-BY 4.0) at [costsegsmart.com/research/benchmarks-2026/](https://costsegsmart.com/research/benchmarks-2026/).
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) - A free interactive calculator for projecting savings growth with compound interest. Designed for educational use only-NerdWallet emphasizes it does not provide...
 
 [Back to contents](#contents)
