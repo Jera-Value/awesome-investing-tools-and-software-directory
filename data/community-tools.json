@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "GitDealFlow",
+    "url": "https://gitdealflow.com",
+    "categories": ["Screeners", "APIs & Data Feeds"],
+    "summary": "GitDealFlow turns public GitHub activity into early-stage startup deal-flow signals for investors. It tracks commit velocity, contributor growth, and repo expansion across 350+ startups in 15 sectors, updated weekly, with a free MCP server and REST/JSON API."
+  }
+]

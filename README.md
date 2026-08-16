@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -266,6 +266,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [FINVIZ](https://finviz.com) — FINVIZ is best known as a fast U.S. stock screener with heat maps, quote pages, insider activity, news, and portfolio watchlists. It works well when you want to move from a broad market view to a tighter list of stocks… ([research profile](https://www.findmymoat.com/tools/finviz?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=finviz))
 - [Fiscal.ai](https://fiscal.ai) — Fiscal.ai is an AI-assisted public-company research terminal and financial data API platform for investors, analysts, developers, and AI-agent builders. It combines global fundamentals, segments and KPIs, transcripts,… ([research profile](https://www.findmymoat.com/tools/fiscal-ai?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=fiscal-ai))
 - [FullRatio](https://fullratio.com) — FullRatio is a visual fundamentals and stock-ratio research site for investors who want U.S. equity screeners, TTM financials, valuation ratios, dividend metrics, fair-value charts, industry benchmarks, and simple stock… ([research profile](https://www.findmymoat.com/tools/fullratio?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=fullratio))
+- [GitDealFlow](https://gitdealflow.com) — GitDealFlow turns public GitHub activity into early-stage startup deal-flow signals for investors. It tracks commit velocity, contributor growth, and repo expansion across 350+ startups in 15 sectors, updated weekly,…
 - [GuruFocus](https://www.gurufocus.com) — GuruFocus is a value-investing research platform for investors who want global fundamentals, valuation tools, GF Score, GF Value, stock/ETF/bond screeners, backtesting, guru and institutional holdings, insider trades,… ([research profile](https://www.findmymoat.com/tools/gurufocus?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=gurufocus))
 - [Insider Screener](https://www.insiderscreener.com) — Insider Screener is a global insider-trading research platform for investors who want to screen, track, export, and alert on director and insider transactions across multiple markets. It is more structured than a simple… ([research profile](https://www.findmymoat.com/tools/insider-screener?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=insider-screener))
 - [Invesst](https://invesst.ai) — Invesst is an AI-first investing workspace for RIAs, portfolio managers, analysts, and serious self-directed investors who want natural-language research, stock and ETF screeners, automated valuation models, watchlists,… ([research profile](https://www.findmymoat.com/tools/invesst?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=invesst))
