@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -33,6 +33,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
 | [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [✨ Other](#-other) | 1 |
 
 ---
 
@@ -400,7 +401,6 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) — NerdWallet Compound Interest Calculator is a free, no-login calculator for estimating how savings or investments may grow with compound interest. It is best for simple education and scenario planning, not portfolio… ([research profile](https://www.findmymoat.com/tools/nerdwallet-compound-interest-calculator?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=nerdwallet-compound-interest-calculator))
 - [ProjectionLab](https://projectionlab.com) — ProjectionLab is a web-based financial and retirement planning simulator for mapping income, spending, investments, major life events, financial independence, and estate outcomes over time. Users can compare what-if… ([research profile](https://www.findmymoat.com/tools/projectionlab?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=projectionlab))
-- [Snowball Dividends](https://www.snowballdividends.com/) — Snowball Dividends is a free suite of dividend-income calculators and live data tools: compound-growth and cost-basis calculators, payment-by-payment history charts for 80+ income funds and ETFs, a live dividend calendar, payout-cut statistics, and a new-ETF launch tracker. No signup; everything computes from live market data in the browser.
 
 [Back to contents](#contents)
 
@@ -491,6 +491,14 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Visible Alpha](https://www.spglobal.com/market-intelligence/en/solutions/visible-alpha) — Visible Alpha, now part of S&P Global Market Intelligence, is an enterprise consensus and model-derived data platform built from full sell-side analyst models. It is useful for line-item estimates, segment/KPI… ([research profile](https://www.findmymoat.com/tools/visible-alpha?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=visible-alpha))
 - [Visual Capitalist](https://www.visualcapitalist.com) — Visual Capitalist is a publisher of data-rich infographics and explainers covering markets, commodities, technology, macroeconomics, and global business themes. It is strongest as visual context for research and… ([research profile](https://www.findmymoat.com/tools/visual-capitalist?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=visual-capitalist))
 - [Winus](https://www.winus.ai) — Winus is an AI-assisted financial research workspace for stock, market, macro, and cross-asset analysis. It is best evaluated as a source-traceable research assistant for finance professionals, not as a broker,… ([research profile](https://www.findmymoat.com/tools/winus?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=winus))
+
+[Back to contents](#contents)
+
+---
+
+### ✨ Other
+
+- [Snowball Dividends](https://www.snowballdividends.com/) — Free dividend-income toolkit: compound-growth and cost-basis calculators, live payment-by-payment history charts for 80+ income funds and ETFs, a live dividend calendar, payout-cut statistics, and a new-ETF launch…
 
 [Back to contents](#contents)
 

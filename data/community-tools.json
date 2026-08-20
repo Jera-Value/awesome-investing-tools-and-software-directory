@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Snowball Dividends",
+    "url": "https://www.snowballdividends.com/",
+    "categories": [
+      "Calculators"
+    ],
+    "summary": "Free dividend-income toolkit: compound-growth and cost-basis calculators, live payment-by-payment history charts for 80+ income funds and ETFs, a live dividend calendar, payout-cut statistics, and a new-ETF launch tracker. No signup; computes from live market data in the browser."
+  }
+]
