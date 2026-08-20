@@ -400,6 +400,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) — NerdWallet Compound Interest Calculator is a free, no-login calculator for estimating how savings or investments may grow with compound interest. It is best for simple education and scenario planning, not portfolio… ([research profile](https://www.findmymoat.com/tools/nerdwallet-compound-interest-calculator?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=nerdwallet-compound-interest-calculator))
 - [ProjectionLab](https://projectionlab.com) — ProjectionLab is a web-based financial and retirement planning simulator for mapping income, spending, investments, major life events, financial independence, and estate outcomes over time. Users can compare what-if… ([research profile](https://www.findmymoat.com/tools/projectionlab?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=projectionlab))
+- [Snowball Dividends](https://www.snowballdividends.com/) — Snowball Dividends is a free suite of dividend-income calculators and live data tools: compound-growth and cost-basis calculators, payment-by-payment history charts for 80+ income funds and ETFs, a live dividend calendar, payout-cut statistics, and a new-ETF launch tracker. No signup; everything computes from live market data in the browser.
 
 [Back to contents](#contents)
 
