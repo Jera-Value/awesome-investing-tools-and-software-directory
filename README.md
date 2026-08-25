@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -22,7 +22,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
 | [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
-| [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
+| [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 3 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
@@ -102,6 +102,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 - [Dune](https://dune.com) — Dune is a crypto and onchain analytics platform for SQL dashboards, decoded blockchain data, APIs, alerts, uploads, teams, and AI-agent workflows. It is useful when you want to build or automate custom onchain analysis… ([research profile](https://www.findmymoat.com/tools/dune?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=dune))
 - [Glassnode](https://glassnode.com) — Glassnode is a digital-asset analytics platform for investors, analysts, quants, and institutions that need on-chain metrics, crypto market data, derivatives data, ETF data, alerts, research, workbench charts, exports,… ([research profile](https://www.findmymoat.com/tools/glassnode?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=glassnode))
+- [Thrive](https://thrive.fi) — Thrive is a CEX perpetuals research workstation and trading journal for traders on Binance, Bybit, and OKX: market intelligence, AI signal interpretation, paper practice, and a journal with read-only exchange sync — not…
 
 [Back to contents](#contents)
 

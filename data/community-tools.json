@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "Thrive",
+    "url": "https://thrive.fi",
+    "categories": [
+      "Crypto Derivatives",
+      "Portfolio",
+      "AI Research",
+      "AI Chat",
+      "Alerts",
+      "Paper Trading",
+      "Data Visualizations",
+      "Broker Connectors"
+    ],
+    "summary": "Thrive is a CEX perpetuals research workstation and trading journal for traders on Binance, Bybit, and OKX: market intelligence, AI signal interpretation, paper practice, and a journal with read-only exchange sync \u2014 not a broker, bot, wallet, or live-order terminal."
+  }
+]
