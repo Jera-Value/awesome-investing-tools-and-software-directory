@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -20,7 +20,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | Section | Tools |
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
-| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
+| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 28 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
@@ -60,6 +60,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [HedgeFollow](https://hedgefollow.com) — HedgeFollow is a web research platform for tracking hedge funds, institutional holders, insider trades, ETF activity, ownership flows, stock pages, fund pages, and portfolio-builder workflows from SEC filings. It is… ([research profile](https://www.findmymoat.com/tools/hedgefollow?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=hedgefollow))
 - [HighShortInterest.com](https://www.highshortinterest.com) — HighShortInterest.com is a simple free list of U.S. stocks with short interest above 20%, organized by exchange for users who want a fast starting point for heavily shorted names. It is strongest as a no-login,… ([research profile](https://www.findmymoat.com/tools/highshortinterest-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=highshortinterest-com))
 - [IBorrowDesk](https://www.iborrowdesk.com) — IBorrowDesk is a stock-borrow availability and borrow-fee tracker built around Interactive Brokers reported securities-lending data. It is useful for short sellers, event-driven traders, and researchers who want to… ([research profile](https://www.findmymoat.com/tools/iborrowdesk?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=iborrowdesk))
+- [Insider Alert Bot](https://jaredmansu.github.io/insider-alerts/) — Insider Alert Bot is a Discord bot that reads SEC Form 4 filings as they are published to EDGAR and posts only large insider buys, cluster buys by multiple insiders in the same ticker, first-time insider buyers, and…
 - [Insider Monitor](https://www.insider-monitor.com) — Insider Monitor is a free U.S. insider-trading reference site for tracking SEC Forms 3, 4, and 5 across insider purchases, sales, officer cluster buys, and top insider-buying lists. It is useful as a quick, no-login way… ([research profile](https://www.findmymoat.com/tools/insider-monitor?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=insider-monitor))
 - [InsiderScore (VerityData | InsiderScore)](https://verityplatform.com/solution/veritydata/insiderscore/) — InsiderScore, now part of VerityData, is an institutional research and data product for insider transactions, buybacks, management changes, institutional holdings, Form 144, 10b5-1 disclosures, and related event feeds.… ([research profile](https://www.findmymoat.com/tools/insiderscore-veritydata-insiderscore?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=insiderscore-veritydata-insiderscore))
 - [InvestorGain](https://www.investorgain.com) — InvestorGain is a free India primary-markets portal for IPO GMP, live IPO subscription status, allotment links, anchor investor data, IPO performance history, rights issues, NCDs, sovereign gold bonds, and broker… ([research profile](https://www.findmymoat.com/tools/investorgain?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=investorgain))

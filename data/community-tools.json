@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Insider Alert Bot",
+    "url": "https://jaredmansu.github.io/insider-alerts/",
+    "categories": ["Insider Data", "Alerts", "Regulatory Filings Monitoring"],
+    "summary": "Insider Alert Bot is a Discord bot that reads SEC Form 4 filings as they are published to EDGAR and posts only large insider buys, cluster buys by multiple insiders in the same ticker, first-time insider buyers, and notable executive sales, restricted to NYSE and NASDAQ listings. It is useful for investors who want filtered insider activity pushed to them in a chat client rather than screening EDGAR themselves."
+  }
+]
