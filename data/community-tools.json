@@ -1,1 +1,8 @@
-[]
+[
+	{
+		"name": "SIGNUM HQ",
+		"url": "https://www.signumhq.com",
+		"categories": ["Options", "Dark Pool & Off-Exchange", "Money Flow"],
+		"summary": "SIGNUM HQ reports US equity options positioning and off-exchange activity per ticker: options flow by premium, dark pool volume share, gamma exposure (GEX), max pain and IV skew, refreshed each session. Use it to check how dealers and off-exchange venues were positioned around a move without opening a desktop terminal. Free on iOS and Android, in English, Korean and Japanese."
+	}
+]
