@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Modelvix",
+    "url": "https://modelvix.com",
+    "categories": ["Valuation Models"],
+    "summary": "Modelvix is a free web tool that runs DCF and Monte Carlo simulations on real financial data to estimate stock fair value ranges, expected returns, and risk profiles, with company comparison and watchlists."
+  }
+]

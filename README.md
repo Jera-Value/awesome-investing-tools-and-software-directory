@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -32,7 +32,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -470,6 +470,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [MarineTraffic](https://www.marinetraffic.com) — MarineTraffic is a global AIS vessel-tracking platform for monitoring ships, voyages, ports, route forecasts, custom areas, alerts, historical tracks, and maritime data APIs. Investors can use it as shipping, commodity,… ([research profile](https://www.findmymoat.com/tools/marinetraffic?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=marinetraffic))
 - [Marketgenius](https://marketgenius.app/) — Marketgenius is a free, mobile-friendly stock heatmap and lightweight stock dashboard site for quick visual discovery. It focuses on major U.S. index heatmaps, superinvestor portfolio heatmaps, simple stock… ([research profile](https://www.findmymoat.com/tools/marketgenius?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=marketgenius))
 - [MoatMap](https://moatmap.ai) — MoatMap is an AI stock screening and equity research tool with Quality, Value, and Momentum scoring, AI deep dives, insider-trade tracking, portfolio X-Ray, macro regime context, AI Top Picks, and investor-lens checks.… ([research profile](https://www.findmymoat.com/tools/moatmap?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=moatmap))
+- [Modelvix](https://modelvix.com) — Modelvix is a free web tool that runs DCF and Monte Carlo simulations on real financial data to estimate stock fair value ranges, expected returns, and risk profiles, with company comparison and watchlists.
 - [Multpl](https://www.multpl.com) — Multpl is a free reference site for long-run S&P 500 valuation, earnings, dividends, Treasury rates, real yields, CPI, inflation, GDP, population, and income charts. It is useful for quick macro and index-valuation… ([research profile](https://www.findmymoat.com/tools/multpl?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=multpl))
 - [Observatory of Economic Complexity (OEC)](https://oec.world/en) — The Observatory of Economic Complexity is a trade-data and economic-complexity platform for exploring countries, products, industries, exports, imports, rankings, and trade relationships through rich visualizations and… ([research profile](https://www.findmymoat.com/tools/observatory-of-economic-complexity-oec?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=observatory-of-economic-complexity-oec))
 - [okama](https://okama.io) — okama is a free open-source portfolio analytics toolkit with web widgets, a REST API, and a Python library for efficient frontiers, risk metrics, Monte Carlo simulations, cash-flow modeling, and historical market or… ([research profile](https://www.findmymoat.com/tools/okama?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=okama))
