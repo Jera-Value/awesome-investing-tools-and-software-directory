@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -23,7 +23,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
-| [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
+| [⚙️ Options and Derivatives](#-options-and-derivatives) | 8 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
@@ -114,6 +114,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Option Alpha](https://optionalpha.com/) — Option Alpha helps retail options traders find ideas, backtest rule-based strategies, paper trade, and automate supported stock and risk-defined options workflows through connected brokers. It is software rather than a… ([research profile](https://www.findmymoat.com/tools/option-alpha?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=option-alpha))
 - [Options Profit Calculator](https://www.optionsprofitcalculator.com) — Options Profit Calculator is a free web toolkit for modeling option payoff diagrams, profit/loss tables, multi-leg strategies, probability estimates, and what-if scenarios before placing trades elsewhere. Premium beta… ([research profile](https://www.findmymoat.com/tools/options-profit-calculator?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=options-profit-calculator))
 - [OptionStrat](https://optionstrat.com) — OptionStrat is an options strategy builder, profit calculator, optimizer, and unusual-flow scanner for traders who want to model payoff diagrams, Greeks, event dates, saved strategies, alerts, and flow in one web and… ([research profile](https://www.findmymoat.com/tools/optionstrat?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=optionstrat))
+- [SIGNUM HQ](https://www.signumhq.com) — SIGNUM HQ reports US equity options positioning and off-exchange activity per ticker: options flow by premium, dark pool volume share, gamma exposure (GEX), max pain and IV skew, refreshed each session. Use it to check…
 - [SpotGamma](https://spotgamma.com) — SpotGamma is an options-market microstructure platform for dealer gamma, vanna, delta, key levels, options-flow impact, volatility dashboards, heatmaps, scans, alerts, and trading-platform integrations. It is built for… ([research profile](https://www.findmymoat.com/tools/spotgamma?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=spotgamma))
 - [Unusual Whales](https://unusualwhales.com/) — Unusual Whales is an options-flow and market-activity platform for traders who want real-time U.S. options trades, dark pool/off-exchange activity, alerts, screeners, news, congressional trading data, and developer API… ([research profile](https://www.findmymoat.com/tools/unusual-whales?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=unusual-whales))
 
