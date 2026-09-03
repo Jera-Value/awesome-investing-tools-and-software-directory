@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "SPZCO",
+    "url": "https://spzco.com",
+    "categories": ["US Government Trades", "Institutional Ownership", "Insider Data", "Screeners", "Backtesting"],
+    "summary": "SPZCO is a stock research terminal for investors who want U.S. congressional STOCK Act trades, executive-branch OGE disclosures, 13F institutional filings, and Form 4 insider activity on one page per stock, filer, or official, with screeners and portfolio backtesting built in. Facts and filings are free without a card; the valuation engine and full 13F books are a paid Pro tier, and disclosed trade amounts are the ranges the forms use rather than exact fills."
+  }
+]

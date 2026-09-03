@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -20,7 +20,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | Section | Tools |
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
-| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
+| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 28 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
@@ -73,6 +73,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [RetailRoadshow](https://www.retailroadshow.com) — RetailRoadshow is a NetRoadshow-operated portal for viewing SEC-compliant electronic roadshow videos and prospectus materials for registered public offerings, primarily IPOs. It is useful for hearing issuer management… ([research profile](https://www.findmymoat.com/tools/retailroadshow?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=retailroadshow))
 - [SecForm4.Com](https://www.secform4.com) — SecForm4.com is a U.S. insider trading and ownership monitoring site for Form 4, Forms 3 and 5, 13D/13G, and 13F filings from EDGAR. It fits users searching for SecForm4, insider trading trackers, Form 4 activity, and… ([research profile](https://www.findmymoat.com/tools/secform4-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=secform4-com))
 - [Short Interest - FMM](https://findmymoat.com/short-interest) — Short Interest - FMM is Find My Moat’s free high-short-interest stock tracker for users who want a quick searchable list of U.S. stocks with short interest above 20%. It is strongest for first-pass short-interest and… ([research profile](https://www.findmymoat.com/tools/short-interest-fmm?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=short-interest-fmm))
+- [SPZCO](https://spzco.com) — SPZCO is a stock research terminal for investors who want U.S. congressional STOCK Act trades, executive-branch OGE disclosures, 13F institutional filings, and Form 4 insider activity on one page per stock, filer, or…
 - [Stockcircle](https://stockcircle.com/) — Stockcircle is a web app for following disclosed investor portfolios, guru transactions, insider trades, U.S. Congress trades, ETF holdings, valuation pages, screeners, alerts, and Pro-only AI earnings-call summaries.… ([research profile](https://www.findmymoat.com/tools/stockcircle?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stockcircle))
 - [The Zen of Investing](https://thezenofinvesting.com) — The Zen of Investing is a free, niche special-situations site focused on upcoming and recent spinoffs. It is useful for event-driven investors who want curated links to press releases, investor decks, prospectuses,… ([research profile](https://www.findmymoat.com/tools/the-zen-of-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=the-zen-of-investing))
 - [Tracefour](https://tracefour.com) — Tracefour is a free insider-trade heatmap for investors who want to scan U.S. insider filings, selected European director-dealing disclosures, and U.S. Congress trades in one browser view. It is useful when… ([research profile](https://www.findmymoat.com/tools/tracefour?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tracefour))
