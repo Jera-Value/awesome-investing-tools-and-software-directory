@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Market Brief",
+    "url": "https://beepboop2025.github.io/market-brief/",
+    "categories": [
+      "Macro Data",
+      "Citations & Source Pinning"
+    ],
+    "summary": "Free browser and Python tool for reviewing funding and liquidity context with source links, observation dates, and optional local comparisons between saved briefs."
+  }
+]
