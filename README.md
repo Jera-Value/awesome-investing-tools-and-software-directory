@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -262,6 +262,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Fey](https://fey.com) — Fey was an AI-native investing research workspace for stocks and ETFs, known for natural-language screening, AI earnings and filing summaries, personalized news, portfolio analysis, and a polished desktop-first… ([research profile](https://www.findmymoat.com/tools/fey?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=fey))
 - [Financial Modeling Prep (FMP)](https://site.financialmodelingprep.com) — Financial Modeling Prep (FMP) is a market-data API and spreadsheet-data provider for developers, analysts, quants, and product builders who need equities, ETFs, funds, FX, crypto, commodities, macro, ESG, ownership,… ([research profile](https://www.findmymoat.com/tools/financial-modeling-prep-fmp?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=financial-modeling-prep-fmp))
 - [Finbox](https://finbox.com) — Finbox is a web-based stock and ETF research platform for investors who want global screening, financial statements, fair-value estimates, valuation models, watchlists, investor portfolios, and spreadsheet exports in… ([research profile](https://www.findmymoat.com/tools/finbox?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=finbox))
+- [FindStockFast](https://findstockfast.com) — FindStockFast screens U.S. stocks against the 13F holdings of 38 institutional investors, Form 4 insider trades, and a fair value built from seven independent valuation methods. Each valuation shows which methods…
 - [Finimize](https://finimize.com) — Finimize is a consumer investing newsletter and mobile app for investors who want concise market news, investing education, analyst-backed ideas, model portfolios, and an easier daily research habit. It is strongest… ([research profile](https://www.findmymoat.com/tools/finimize?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=finimize))
 - [FINVIZ](https://finviz.com) — FINVIZ is best known as a fast U.S. stock screener with heat maps, quote pages, insider activity, news, and portfolio watchlists. It works well when you want to move from a broad market view to a tighter list of stocks… ([research profile](https://www.findmymoat.com/tools/finviz?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=finviz))
 - [Fiscal.ai](https://fiscal.ai) — Fiscal.ai is an AI-assisted public-company research terminal and financial data API platform for investors, analysts, developers, and AI-agent builders. It combines global fundamentals, segments and KPIs, transcripts,… ([research profile](https://www.findmymoat.com/tools/fiscal-ai?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=fiscal-ai))

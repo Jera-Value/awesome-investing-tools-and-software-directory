@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "FindStockFast",
+    "url": "https://findstockfast.com",
+    "categories": [
+      "Screeners",
+      "Institutional Ownership",
+      "Insider Data",
+      "Valuation Models",
+      "Financials",
+      "Dividends"
+    ],
+    "summary": "FindStockFast screens U.S. stocks against the 13F holdings of 38 institutional investors, Form 4 insider trades, and a fair value built from seven independent valuation methods. Each valuation shows which methods answered and which did not, and pages state the date of the filing or quote behind the numbers. Free, no account, in English and Portuguese."
+  }
+]
