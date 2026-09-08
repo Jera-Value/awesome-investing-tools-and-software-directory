@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "BoringToolsKit Marketplace Fee Calculators",
+    "url": "https://boringtoolskit.com/ebay-fee-profit-calculator/",
+    "categories": [
+      "Calculators"
+    ],
+    "summary": "Free browser calculators that compute what eBay, Etsy, Amazon, and Shopify take from a marketplace sale, plus the break-even sale price after platform fees and shipping. Includes break-even profit margins and net proceeds for sellers; runs client-side with no sign-up."
+  }
+]
