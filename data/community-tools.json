@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Smart Money 13F",
+    "url": "https://13f.aiworkagent.org",
+    "categories": ["Institutional Ownership", "Improved Filings"],
+    "summary": "Smart Money 13F turns SEC 13F-HR filings into per-fund quarterly diffs — new buys, exits, and position changes for each institutional manager — with data pulled directly from EDGAR. Free, no account."
+  }
+]
