@@ -443,6 +443,8 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov) — The U.S. Bureau of Economic Analysis is the official free source for U.S. economic accounts, including GDP, personal income, PCE inflation, industry data, international accounts, regional data, interactive tables,… ([research profile](https://www.findmymoat.com/tools/u-s-bureau-of-economic-analysis-bea?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=u-s-bureau-of-economic-analysis-bea))
 - [Visualping](https://visualping.io) — Visualping is a website-change monitoring and alerting platform that investors, compliance teams, and analysts can use to watch regulator pages, investor-relations pages, pricing pages, competitor pages, and other web… ([research profile](https://www.findmymoat.com/tools/visualping?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=visualping))
 - [Yahoo Finance](https://finance.yahoo.com) — Yahoo Finance is the familiar free market portal for quotes, business news, watchlists, portfolios, charts, screeners, and basic company research. It works best for mainstream investors who want a quick read on markets,… ([research profile](https://www.findmymoat.com/tools/yahoo-finance?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=yahoo-finance))
+- [HostDeFi Token Safety Snapshot](https://hostdefi.com/data/) - Free weekly dataset of token-safety grades across Solana and EVM chains, CC BY 4.0, CSV.
+
 
 [Back to contents](#contents)
 
