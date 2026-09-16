@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "name":  "StockAvg",
+        "url":  "https://stockavg.com/",
+        "categories":  [
+                           "Portfolio"
+                       ],
+        "summary":  "StockAvg is a free web calculator for weighted-average cost basis: enter the shares and prices you paid to get your average cost per share, market value and unrealized profit or loss, and models average down."
+    }
+]
