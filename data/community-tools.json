@@ -1,1 +1,11 @@
-[]
+[
+	{
+		"name": "Future Value Calculator",
+		"url": "https://future-value-calculator.com/",
+		"categories": [
+			"Compounding Calculator",
+			"Retirement Calculator"
+		],
+		"summary": "Future Value Calculator is a free web calculator for projecting investment growth with monthly deposits, withdrawals, inflation, dated rate changes, and lower/middle/higher return scenarios. It includes 401(k) and Roth IRA calculators that account for employer matching and yearly balance schedules."
+	}
+]
