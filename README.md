@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -26,7 +26,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
-| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
+| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 42 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
@@ -220,6 +220,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Snowball Analytics](https://snowball-analytics.com) — Snowball Analytics is an EU-based portfolio and dividend tracker for retail investors who want multi-asset tracking, broker import, dividend analytics, benchmarking, fund look-through, backtesting, and mobile access. It… ([research profile](https://www.findmymoat.com/tools/snowball-analytics?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=snowball-analytics))
 - [SS&C Black Diamond Wealth Solutions](https://www.sscblackdiamond.com) — SS&C Black Diamond Wealth Solutions is an enterprise wealth-management platform for RIAs, broker-dealers, family offices, banks, and trust teams that need portfolio accounting, performance reporting, client portals,… ([research profile](https://www.findmymoat.com/tools/ss-c-black-diamond-wealth-solutions?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=ss-c-black-diamond-wealth-solutions))
 - [Statfolio](https://statfolio.net) — Statfolio is a lightweight stock and ETF portfolio tracker for investors who want holdings, performance, dividends, splits, diversification, and symbol research in one dashboard. It fits manual or imported tracking… ([research profile](https://www.findmymoat.com/tools/statfolio?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=statfolio))
+- [StockAvg](https://stockavg.com/) — StockAvg is a free web calculator for weighted-average cost basis: enter the shares and prices you paid to get your average cost per share, market value and unrealized profit or loss, and models average down.
 - [Stocktwits](https://stocktwits.com) — Stocktwits is a social investing network for following real-time market conversation, community sentiment, trending symbols, watchlists, earnings context, news, and symbol pages across stocks, ETFs, and crypto. It is… ([research profile](https://www.findmymoat.com/tools/stocktwits?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stocktwits))
 - [Testfol.io](https://testfol.io) — Testfol.io is a freemium web-based portfolio backtesting and analysis toolkit for investors who want to test allocations, cashflows, rebalancing rules, tactical signals, leverage, correlations, and historical… ([research profile](https://www.findmymoat.com/tools/testfol-io?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=testfol-io))
 - [Track Your Dividends (TYD)](https://trackyourdividends.com) — Track Your Dividends is a dividend-focused portfolio tracker for U.S. investors, combining Plaid-linked accounts, manual portfolios, dividend alerts, income projections, and Premium research tools. It is useful for… ([research profile](https://www.findmymoat.com/tools/track-your-dividends-tyd?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=track-your-dividends-tyd))
