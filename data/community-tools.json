@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "FN2",
+    "url": "https://fn2.ai",
+    "categories": [
+      "AI Research",
+      "Watchlist",
+      "Alerts",
+      "Transcripts"
+    ],
+    "summary": "An AI market analyst for investors. Ask about a stock and get a sourced answer, and set scheduled agents that send briefings, watchlist alerts and earnings coverage."
+  }
+]
