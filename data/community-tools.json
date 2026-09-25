@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "Eulerpool",
+    "url": "https://eulerpool.com/financial-data-api",
+    "categories": [
+      "APIs & Data Feeds",
+      "Financials",
+      "Macro Data",
+      "Insider Data",
+      "Institutional Ownership",
+      "Sheets / Excel Add-ins"
+    ],
+    "summary": "Eulerpool is a financial data API with 400+ REST endpoints for global equities and fundamentals, ETFs, insider trades, 13F filings, macro series from FRED, ECB, IMF, World Bank, OECD and BIS, crypto, FX, commodities and bond yield curves. It offers SDKs for Python, TypeScript, Go, Java, R, PHP, Rust and C++, an Excel add-in and a Google Sheets add-on, and a free tier of 100,000 requests per month for non-commercial use."
+  }
+]
