@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Dividend Data Toolkit",
+    "url": "https://github.com/holaclea/dividend-data-toolkit",
+    "categories": [
+      "ETF Analysis",
+      "Dividends",
+      "Splits"
+    ],
+    "summary": "Dependency-free Python tools for auditing dated dividend payments with explicit share-split handling and calculating one company's exposure across ETF positions. Includes historical SCHD CSV snapshots with sources."
+  }
+]

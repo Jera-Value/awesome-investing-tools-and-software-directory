@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -21,7 +21,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
 | [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
-| [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
+| [🧺 ETFs and Funds](#-etfs-and-funds) | 9 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
@@ -85,6 +85,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 ### 🧺 ETFs and Funds
 
+- [Dividend Data Toolkit](https://github.com/holaclea/dividend-data-toolkit) — Dependency-free Python tools for auditing dated dividend payments with explicit share-split handling and calculating one company's exposure across ETF positions. Includes historical SCHD CSV snapshots with sources.
 - [ETF Action](https://www.etfaction.com) — ETF Action is an ETF analytics platform for advisors, asset managers, and ETF-focused investors who need classification, look-through holdings, overlap, flows, model portfolios, 13F screening, exports, and enterprise… ([research profile](https://www.findmymoat.com/tools/etf-action?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-action))
 - [ETF Central](https://www.etfcentral.com) — ETF Central is a free ETF research and education site for screening, comparing, watching, and learning about U.S.-listed ETFs. It supports approachable ETF discovery, segment flows, portfolio building, news, and ETF… ([research profile](https://www.findmymoat.com/tools/etf-central?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-central))
 - [ETF Insider](https://etfinsider.co) — ETF Insider is a web-based ETF, mutual fund, and stock portfolio visualization tool for investors who want to see holdings overlap, concentration, correlations, factor exposure, and efficient-frontier style portfolio… ([research profile](https://www.findmymoat.com/tools/etf-insider?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-insider))
