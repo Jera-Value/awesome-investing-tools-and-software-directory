@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -20,7 +20,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | Section | Tools |
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
-| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
+| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 28 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
@@ -75,6 +75,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Short Interest - FMM](https://findmymoat.com/short-interest) — Short Interest - FMM is Find My Moat’s free high-short-interest stock tracker for users who want a quick searchable list of U.S. stocks with short interest above 20%. It is strongest for first-pass short-interest and… ([research profile](https://www.findmymoat.com/tools/short-interest-fmm?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=short-interest-fmm))
 - [Stockcircle](https://stockcircle.com/) — Stockcircle is a web app for following disclosed investor portfolios, guru transactions, insider trades, U.S. Congress trades, ETF holdings, valuation pages, screeners, alerts, and Pro-only AI earnings-call summaries.… ([research profile](https://www.findmymoat.com/tools/stockcircle?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stockcircle))
 - [The Zen of Investing](https://thezenofinvesting.com) — The Zen of Investing is a free, niche special-situations site focused on upcoming and recent spinoffs. It is useful for event-driven investors who want curated links to press releases, investor decks, prospectuses,… ([research profile](https://www.findmymoat.com/tools/the-zen-of-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=the-zen-of-investing))
+- [TickerFile](https://tickerfile.com) — TickerFile is a free equity research platform with original reports on 5,000+ US-traded companies, from mega-caps to micro-caps that lack Wall Street coverage. It synthesizes SEC filings, insider transactions,…
 - [Tracefour](https://tracefour.com) — Tracefour is a free insider-trade heatmap for investors who want to scan U.S. insider filings, selected European director-dealing disclosures, and U.S. Congress trades in one browser view. It is useful when… ([research profile](https://www.findmymoat.com/tools/tracefour?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tracefour))
 - [Wall St. Rank](https://www.wallstrank.com) — Wall St. Rank is a fund- and analyst-consensus research product for 13F manager portfolios, fund trends, analyst ratings, price targets, news sentiment, indexes, and API-accessible data. It is useful for U.S.-listed… ([research profile](https://www.findmymoat.com/tools/wall-st-rank?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wall-st-rank))
 - [WhaleWisdom](https://whalewisdom.com/) — WhaleWisdom is a 13F, institutional ownership, insider, and hedge-fund holdings platform for investors who track filer activity, fund portfolios, watchlists, backtests, exports, and API workflows. It is useful for… ([research profile](https://www.findmymoat.com/tools/whalewisdom?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=whalewisdom))

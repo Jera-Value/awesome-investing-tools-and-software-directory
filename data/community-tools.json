@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "TickerFile",
+    "url": "https://tickerfile.com",
+    "categories": ["Insider Data", "Institutional Ownership", "Financials", "Stock Ideas"],
+    "summary": "TickerFile is a free equity research platform with original reports on 5,000+ US-traded companies, from mega-caps to micro-caps that lack Wall Street coverage. It synthesizes SEC filings, insider transactions, institutional ownership, and financial data into readable research for self-directed investors."
+  }
+]
