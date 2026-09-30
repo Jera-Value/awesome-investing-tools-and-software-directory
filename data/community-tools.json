@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "CallPutHub",
+    "url": "https://callputhub.com",
+    "categories": [
+      "Options P&L",
+      "Options"
+    ],
+    "summary": "Free browser-based options calculator and trade analyzer for single- and multi-leg strategies. It shows payoff, max profit/loss, breakevens, and clearly labeled pre-expiration estimates from user inputs."
+  }
+]
