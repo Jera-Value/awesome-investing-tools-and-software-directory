@@ -1,8 +1,8 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
-[**Search, filter, and compare all 361 researched tools on Find My Moat →**](https://www.findmymoat.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=directory_header)
+[**Search, filter, and compare all 362 researched tools on Find My Moat →**](https://www.findmymoat.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=directory_header)
 
 Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
@@ -23,7 +23,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
-| [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
+| [⚙️ Options and Derivatives](#-options-and-derivatives) | 8 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
@@ -109,6 +109,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 ### ⚙ Options and Derivatives
 
+- [CallPutHub](https://callputhub.com) — Free browser-based options calculator and trade analyzer for single- and multi-leg strategies. It shows payoff, max profit/loss, breakevens, and clearly labeled pre-expiration estimates from user inputs.
 - [FlowAlgo](https://www.flowalgo.com) — FlowAlgo is an options-flow and dark-pool monitoring platform for traders who want a focused tape of unusual options activity, sweeps, block trades, equity blocks, dark-pool prints, alerts, and historical flow. It is… ([research profile](https://www.findmymoat.com/tools/flowalgo?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=flowalgo))
 - [GammaWins Calculator](https://www.gammawins.com/calc?state=) — GammaWins Calculator is a free web options payoff and Greeks calculator for traders who want to model single-leg and multi-leg option strategies, visualize profit and loss, inspect Greeks, test volatility assumptions,… ([research profile](https://www.findmymoat.com/tools/gammawins-calculator?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=gammawins-calculator))
 - [Option Alpha](https://optionalpha.com/) — Option Alpha helps retail options traders find ideas, backtest rule-based strategies, paper trade, and automate supported stock and risk-defined options workflows through connected brokers. It is software rather than a… ([research profile](https://www.findmymoat.com/tools/option-alpha?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=option-alpha))
