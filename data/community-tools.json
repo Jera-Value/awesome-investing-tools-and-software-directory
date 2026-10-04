@@ -1,1 +1,8 @@
-[]
+[
+	{
+		"name": "La Plata",
+		"url": "https://laplata.one/en/",
+		"categories": ["Financials", "Macro Data"],
+		"summary": "A free research site focused on Argentina’s economy and stock market. Explore listed-company profiles, dated market quotes, financial indicators and exchange-rate references, with source dates and data limitations."
+	}
+]
