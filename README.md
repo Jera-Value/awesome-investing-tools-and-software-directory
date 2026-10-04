@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -26,7 +26,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
-| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
+| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 42 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
@@ -227,6 +227,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [TradeLog](https://tradelog.com/) — TradeLog is Windows desktop trade-accounting software for U.S. active traders who need to consolidate complete trade history, identify taxpayer-level wash sales across accounts and IRAs, reconcile proceeds, and prepare… ([research profile](https://www.findmymoat.com/tools/tradelog?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tradelog))
 - [Tradervue](https://www.tradervue.com) — Tradervue is a mature trading journal for importing trades, reviewing charts, analyzing performance, sharing trades, working with mentors, and using reports across stocks, ETFs, futures, forex, and options. It is… ([research profile](https://www.findmymoat.com/tools/tradervue?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tradervue))
 - [TradeZella](https://www.tradezella.com) — TradeZella is a paid trading journal for active traders who want broker imports, performance analytics, tagging, playbooks, backtesting, replay, AI review, risk reports, and mentor workflows in one web platform. It is… ([research profile](https://www.findmymoat.com/tools/tradezella?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tradezella))
+- [Truthifi](https://truthifi.com) — One verified household record of US investment and bank accounts: holdings, allocation, fees, performance against a benchmark, cash flow and the Truthifi Score with the findings behind it, reviewed every night. An MCP…
 - [Wealthfolio](https://wealthfolio.app/) — Wealthfolio is a free, open-source, local-first portfolio and personal-finance app for investors who want holdings, performance, allocation, income, net worth, spending, goals, rebalancing, and retirement planning in a… ([research profile](https://www.findmymoat.com/tools/wealthfolio?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wealthfolio))
 - [Wise (Interest & Stocks)](https://wise.com) — Wise Interest and Stocks are account features for eligible Wise customers who want interest-like balance options or simple one-fund stock exposure inside a multi-currency account. Availability, fees, insurance… ([research profile](https://www.findmymoat.com/tools/wise-interest-stocks?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wise-interest-stocks))
 - [Zenvesto](https://zenvesto.com/) — Zenvesto is a web-based stock, ETF, crypto, and benchmark portfolio tracker built around dashboards, watchlists, performance metrics, portfolio health scoring, AI-powered insights, market news, earnings calendars, CSV… ([research profile](https://www.findmymoat.com/tools/zenvesto?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=zenvesto))

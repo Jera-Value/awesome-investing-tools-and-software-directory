@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Truthifi",
+    "url": "https://truthifi.com",
+    "categories": [
+      "Portfolio",
+      "AI Chat",
+      "Broker Connectors"
+    ],
+    "summary": "One verified household record of US investment and bank accounts: holdings, allocation, fees, performance against a benchmark, cash flow and the Truthifi Score with the findings behind it, reviewed every night. An MCP server brings the same record into AI assistants; it can't move money."
+  }
+]
