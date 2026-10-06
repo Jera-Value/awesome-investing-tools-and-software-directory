@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Martian Alpha",
+    "url": "https://martianalpha.com",
+    "categories": [
+      "Screeners",
+      "Calendar",
+      "Watchlist",
+      "Alerts",
+      "AI Chat"
+    ],
+    "summary": "Martian Alpha is a research terminal for space stocks. The free plan includes a CANSLIM screener, a rocket launch calendar, a catalyst feed of earnings, filings, contract awards and insider trades, a watchlist with price and news alerts, and an AI research chat; paid plans start at $5 a month."
+  }
+]
