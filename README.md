@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -277,6 +277,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Magic Formula Investing](https://www.magicformulainvesting.com) — Magic Formula Investing is the official free Joel Greenblatt-style stock screener based on the Magic Formula strategy from The Little Book That Beats the Market. It ranks U.S.-listed non-financial, non-utility stocks… ([research profile](https://www.findmymoat.com/tools/magic-formula-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=magic-formula-investing))
 - [MarketInOut](https://www.marketinout.com) — MarketInOut is a formula-driven stock, ETF, forex, and crypto screener with historical screening, strategy backtesting, alerts, watchlists, simple portfolio views, correlation tools, and one-time membership terms. It… ([research profile](https://www.findmymoat.com/tools/marketinout?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=marketinout))
 - [MarketSurge](https://get.investors.com/marketsurge/) — MarketSurge is Investor’s Business Daily’s premium stock research, screening, charting, ratings, alerts, and idea-list platform for IBD-style growth and swing traders. It carries the MarketSmith lineage and emphasizes… ([research profile](https://www.findmymoat.com/tools/marketsurge?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=marketsurge))
+- [Martian Alpha](https://martianalpha.com) — Martian Alpha is a research terminal for space stocks. The free plan includes a CANSLIM screener, a rocket launch calendar, a catalyst feed of earnings, filings, contract awards and insider trades, a watchlist with…
 - [Monexa](https://www.monexa.ai) — Monexa was cataloged as a low-cost AI stock-analysis workspace for screening, company dashboards, financial statements, DCF models, filings, transcripts, ownership views, and congressional-trading research. Its… ([research profile](https://www.findmymoat.com/tools/monexa?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=monexa))
 - [Morningstar Investor](https://www.morningstar.com) — Morningstar Investor is a subscription research product for long-term investors who want Morningstar ratings, analyst reports, fair value estimates, moat research, screeners, and portfolio analysis. It is especially… ([research profile](https://www.findmymoat.com/tools/morningstar-investor?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=morningstar-investor))
 - [Nasdaq.com](https://www.nasdaq.com) — Nasdaq.com is Nasdaq's official investor portal for quotes, market news, screeners, calendars, filings, options chains, watchlists, and portfolio tools. It is strongest for investors who want exchange-branded market… ([research profile](https://www.findmymoat.com/tools/nasdaq-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=nasdaq-com))
