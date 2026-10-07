@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Disclosery",
+    "url": "https://disclosery.com",
+    "categories": ["Institutional Ownership", "APIs & Data Feeds", "Regulatory Filings Monitoring"],
+    "summary": "Research SEC institutional holdings and ownership disclosures, inspect filing history, and monitor followed entities. Structured JSON API and hosted MCP access support programmatic research."
+  }
+]
