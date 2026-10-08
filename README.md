@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -24,7 +24,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
-| [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
+| [🛡️ Compliance and Tax](#-compliance-and-tax) | 8 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
@@ -125,6 +125,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 - [EDINET](https://disclosure2.edinet-fsa.go.jp/week0020.aspx) — EDINET is Japan's official electronic corporate-disclosure system. It supports issuer, security, fund, stock-code, document-type, keyword, and date searches, with source filings, XBRL resources, taxonomy files, and an… ([research profile](https://www.findmymoat.com/tools/edinet?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=edinet))
 - [Find and update company information (Companies House)](https://find-and-update.company-information.service.gov.uk) — Companies House Find and update company information is the official free UK company register for searching companies, filings, officers, ownership-control records, and document images. It supports UK due diligence,… ([research profile](https://www.findmymoat.com/tools/find-and-update-company-information-companies-house?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=find-and-update-company-information-companies-house))
+- [FiscalFox](https://www.fiscal-fox.com/uk-capital-gains-tax-calculator) — Calculates UK capital gains on shares and funds from broker CSV imports, including holdings across multiple brokers. Calculations are free, with an optional paid report pack.
 - [Ideagen Audit Analytics](https://www.auditanalytics.com) — Ideagen Audit Analytics is a specialist audit, accounting, regulatory, and disclosure-risk data platform for investors, academics, and enterprise research teams. It is useful when standard fundamentals are not enough… ([research profile](https://www.findmymoat.com/tools/ideagen-audit-analytics?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=ideagen-audit-analytics))
 - [PCAOB AuditorSearch](https://pcaobus.org/resources/auditorsearch) — PCAOB AuditorSearch is the official free lookup for the audit firms and engagement partners behind U.S. public-company audit reports. It is useful when governance, audit-quality, restatement, or auditor-change work… ([research profile](https://www.findmymoat.com/tools/pcaob-auditorsearch?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=pcaob-auditorsearch))
 - [SEC EDGAR - Company Filings (Full‑Text Search & Search Filings)](https://www.sec.gov/edgar/search/) — SEC EDGAR Search is the official free source for U.S. public company, fund, insider, ownership, prospectus, and XBRL filing research. It is strongest as the source of truth for SEC filings, full-text search, latest… ([research profile](https://www.findmymoat.com/tools/sec-edgar-company-filings-full-text-search-search-filings?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sec-edgar-company-filings-full-text-search-search-filings))

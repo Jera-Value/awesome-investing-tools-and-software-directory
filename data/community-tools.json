@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "FiscalFox",
+    "url": "https://www.fiscal-fox.com/uk-capital-gains-tax-calculator",
+    "categories": [
+      "Downloadable Tax Reports"
+    ],
+    "summary": "Calculates UK capital gains on shares and funds from broker CSV imports, including holdings across multiple brokers. Calculations are free, with an optional paid report pack."
+  }
+]
