@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "Equibles",
+    "url": "https://equibles.com",
+    "categories": [
+      "APIs & Data Feeds",
+      "AI Research",
+      "Financials",
+      "Transcripts",
+      "Institutional Ownership",
+      "Insider Data"
+    ],
+    "summary": "Equibles connects ChatGPT, Claude and code to source-linked US company data: SEC-filed fundamentals, filings, earnings-call transcripts, 13F and insider trades, via a hosted MCP server and REST API."
+  }
+]
