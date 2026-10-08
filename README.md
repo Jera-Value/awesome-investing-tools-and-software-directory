@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -28,7 +28,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
-| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
+| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 38 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
@@ -347,6 +347,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [ECB Data Portal](https://data.ecb.europa.eu) — ECB Data Portal is the official free European Central Bank source for ECB statistics, euro area macro data, interest rates, exchange rates, yield curves, downloads, charts, and SDMX API access. It is useful when you… ([research profile](https://www.findmymoat.com/tools/ecb-data-portal?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=ecb-data-portal))
 - [EIA Open Data](https://www.eia.gov/opendata/) — EIA Open Data is the U.S. government source for statistical and operational energy data. Analysts and developers can browse energy series or retrieve them through a free API, bulk files, and spreadsheet tools for macro,… ([research profile](https://www.findmymoat.com/tools/eia-open-data?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=eia-open-data))
 - [EODHD](https://eodhd.com) — EODHD is a market-data API provider for developers, quants, and analysts who need REST, WebSocket, spreadsheet, and AI-agent access to historical prices, fundamentals, calendars, news, sentiment, options, forex, crypto,… ([research profile](https://www.findmymoat.com/tools/eodhd?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=eodhd))
+- [Equibles](https://equibles.com) — Equibles connects ChatGPT, Claude and code to source-linked US company data: SEC-filed fundamentals, filings, earnings-call transcripts, 13F and insider trades, via a hosted MCP server and REST API.
 - [Euromonitor (Passport)](https://www.euromonitor.com) — Euromonitor Passport is a premium market-research database for industries, economies, consumers, countries, channels, forecasts, reports, and structured APIs. It is useful when strategy or investment research needs… ([research profile](https://www.findmymoat.com/tools/euromonitor-passport?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=euromonitor-passport))
 - [Federal Reserve Bank of New York - Data & Statistics](https://www.newyorkfed.org/data-and-statistics) — Federal Reserve Bank of New York Data & Statistics is an official source for U.S. reference rates, markets operations data, SOMA holdings, primary dealer statistics, survey data, and research indicators. It is useful… ([research profile](https://www.findmymoat.com/tools/federal-reserve-bank-of-new-york-data-statistics?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=federal-reserve-bank-of-new-york-data-statistics))
 - [Federal Reserve Board (FRB.gov)](https://www.federalreserve.gov) — Federal Reserve Board (FRB.gov) is the official U.S. central-bank source for policy materials, FOMC calendars, statistical releases, interest rates, balance sheet data, bank data, FX rates, industrial production, and… ([research profile](https://www.findmymoat.com/tools/federal-reserve-board-frb-gov?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=federal-reserve-board-frb-gov))
