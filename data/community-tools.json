@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Fair Value Calculator",
+    "url": "https://www.fairvalue-calculator.com",
+    "categories": [
+      "Valuation Models",
+      "Screeners",
+      "Scores",
+      "Watchlist",
+      "Alerts"
+    ],
+    "summary": "Estimates a fair value per share and a quality score for 35,000+ stocks worldwide by blending several valuation models, and shows how far the price is from that estimate. Includes a screener, watchlist and price alerts; a limited number of analyses per month is free."
+  }
+]

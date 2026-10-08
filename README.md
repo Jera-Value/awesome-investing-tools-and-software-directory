@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -32,7 +32,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -460,6 +460,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [ConsumerAffairs](https://www.consumeraffairs.com) — ConsumerAffairs is a consumer-review and buyer-guide site that can help investors and operators read reputation, complaint, and product-experience signals around consumer-facing companies. It serves as qualitative… ([research profile](https://www.findmymoat.com/tools/consumeraffairs?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=consumeraffairs))
 - [Damodaran - Cost of Capital by Sector (US)](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/wacc.html) — Damodaran - Cost of Capital by Sector is a free NYU Stern industry WACC table for analysts who need a credible sector baseline for DCF models and cost-of-capital work. It provides beta, cost of equity, cost of debt,… ([research profile](https://www.findmymoat.com/tools/damodaran-cost-of-capital-by-sector-us?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=damodaran-cost-of-capital-by-sector-us))
 - [Damodaran Online (NYU Stern)](https://pages.stern.nyu.edu/~adamodar/) — Damodaran Online is Aswath Damodaran's free NYU Stern valuation resource for investors, students, and analysts who need downloadable datasets, valuation models, equity risk premiums, country risk premiums, betas,… ([research profile](https://www.findmymoat.com/tools/damodaran-online-nyu-stern?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=damodaran-online-nyu-stern))
+- [Fair Value Calculator](https://www.fairvalue-calculator.com) — Estimates a fair value per share and a quality score for 35,000+ stocks worldwide by blending several valuation models, and shows how far the price is from that estimate. Includes a screener, watchlist and price alerts;…
 - [Frost & Sullivan](https://www.frost.com) — Frost & Sullivan is a premium analyst research, market intelligence, and benchmarking provider for strategy, corporate development, product, and investment teams that need industry reports, Frost Radar studies, economic… ([research profile](https://www.findmymoat.com/tools/frost-sullivan?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=frost-sullivan))
 - [GeminIQ](https://www.geminiq.com) — GeminIQ is a browser-based U.S. public-company research platform built around as-filed SEC financial statements. It combines XBRL-traceable 10-K and 10-Q data with calculated metrics, interactive visualizations,… ([research profile](https://www.findmymoat.com/tools/geminiq?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=geminiq))
 - [Glassdoor](https://www.glassdoor.com) — Glassdoor is an employee reviews, salary, jobs, and employer-branding platform that investors can use as alternative context on culture, hiring, retention, compensation pressure, employer reputation, and workforce… ([research profile](https://www.findmymoat.com/tools/glassdoor?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=glassdoor))
