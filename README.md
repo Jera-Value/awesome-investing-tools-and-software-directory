@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -32,7 +32,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -478,6 +478,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Quartr](https://quartr.com) — Quartr is a qualitative public-market research platform for earnings calls, real-time transcripts, filings, reports, slide decks, analyst estimates, AI chat, and investor-relations data. The mobile app is useful for… ([research profile](https://www.findmymoat.com/tools/quartr?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=quartr))
 - [Relative Rotation Graphs® (RRG Research)](https://relativerotationgraphs.com) — Relative Rotation Graphs from RRG Research are specialized visual tools for comparing relative strength and rotation across securities, sectors, asset classes, currencies, crypto, or custom professional universes. The… ([research profile](https://www.findmymoat.com/tools/relative-rotation-graphs-rrg-research?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=relative-rotation-graphs-rrg-research))
 - [Roic AI](https://www.roic.ai) — Roic AI is a financial data, stock research, and API platform for investors and developers who want company financials, transcripts, news, screeners, exports, spreadsheet endpoints, AI research assistance, and MCP or… ([research profile](https://www.findmymoat.com/tools/roic-ai?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=roic-ai))
+- [RWA Space](https://rwaspace.app/) — RWA Space is a public research terminal for tokenized real-world assets. It separates underlying assets, tokenized issuances, and their observed trading markets, with price methodology and source links.
 - [Semrush](https://www.semrush.com) — Semrush is an SEO, marketing intelligence, website traffic analytics, and AI search visibility platform that investors can use as alternative data for search-dependent companies, publishers, agencies, ecommerce, SaaS,… ([research profile](https://www.findmymoat.com/tools/semrush?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=semrush))
 - [Sensor Tower](https://sensortower.com) — Sensor Tower is a sales-led mobile app, advertising, gaming, web, and audience intelligence platform for analysts who use app downloads, usage, revenue estimates, ad creatives, audience behavior, and web/app trends as… ([research profile](https://www.findmymoat.com/tools/sensor-tower?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sensor-tower))
 - [Similarweb](https://www.similarweb.com) — Similarweb is a digital intelligence and website traffic analytics platform for researching web traffic, app usage, keywords, referrals, competitors, companies, technologies, and online market share. For investors, it… ([research profile](https://www.findmymoat.com/tools/similarweb?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=similarweb))

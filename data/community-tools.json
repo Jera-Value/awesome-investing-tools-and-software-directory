@@ -1,1 +1,8 @@
-[]
+[
+	{
+		"name": "RWA Space",
+		"url": "https://rwaspace.app/",
+		"categories": ["Data Visualizations"],
+		"summary": "RWA Space is a public research terminal for tokenized real-world assets. It separates underlying assets, tokenized issuances, and their observed trading markets, with price methodology and source links."
+	}
+]
