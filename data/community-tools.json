@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Fincept MCP",
+    "url": "https://docs.fincept.in",
+    "categories": [
+      "APIs & Data Feeds",
+      "Options",
+      "Macro Data",
+      "Backtesting",
+      "Paper Trading"
+    ],
+    "summary": "Fincept MCP is a hosted Model Context Protocol server for Fincept Terminal that lets AI agents and MCP clients pull quotes, candles, option chains, fundamentals, economic data, SEC filings and news, and run backtests, paper trades and 15 quant engines. It uses OAuth browser sign-in and requires a paid plan."
+  }
+]

@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -28,7 +28,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
-| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
+| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 38 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
@@ -353,6 +353,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Financial Datasets](https://www.financialdatasets.ai) — Financial Datasets is a developer-focused financial data API and official MCP server for teams building AI agents, stock screeners, portfolio tools, research apps, and quantitative workflows. It is strongest when you… ([research profile](https://www.findmymoat.com/tools/financial-datasets?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=financial-datasets))
 - [FinancialData.Net](https://financialdata.net) — FinancialData.Net is an API-first financial data platform for developers, analysts, spreadsheet users, and AI-agent builders who want broad market data, fundamentals, ownership, options, funds, ESG, calendars, news,… ([research profile](https://www.findmymoat.com/tools/financialdata-net?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=financialdata-net))
 - [Finatic](https://finatic.dev) — Finatic is a broker-connectivity API for fintech builders who need user brokerage linking, normalized brokerage account data, webhooks, and consented trade execution across many brokers. It is useful infrastructure for… ([research profile](https://www.findmymoat.com/tools/finatic?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=finatic))
+- [Fincept MCP](https://docs.fincept.in) — Fincept MCP is a hosted Model Context Protocol server for Fincept Terminal that lets AI agents and MCP clients pull quotes, candles, option chains, fundamentals, economic data, SEC filings and news, and run backtests,…
 - [FINRA Fixed Income Data](https://www.finra.org/finra-data/fixed-income) — FINRA Fixed Income Data is an official source for U.S. bond security details, disseminated TRACE transactions, trade-activity history, and aggregate market reports. It is useful for researching executed prices and… ([research profile](https://www.findmymoat.com/tools/finra-fixed-income-data?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=finra-fixed-income-data))
 - [FlightAware](https://www.flightaware.com) — FlightAware is a global flight-tracking platform and aviation data provider, useful to investors when flight activity, delays, routes, airports, airlines, logistics, business travel, or private aviation can act as… ([research profile](https://www.findmymoat.com/tools/flightaware?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=flightaware))
 - [Global Factor Data (JKP Factors)](https://jkpfactors.com) — Global Factor Data, often called JKP Factors, is a free academic research dataset and web interface for global equity factor returns, stock characteristics, and reproducible factor-construction code based on Jensen,… ([research profile](https://www.findmymoat.com/tools/global-factor-data-jkp-factors?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=global-factor-data-jkp-factors))
