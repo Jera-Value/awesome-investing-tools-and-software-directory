@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Tapetide",
+    "url": "https://tapetide.com",
+    "categories": ["Screeners", "AI Research", "Financials", "Institutional Ownership"],
+    "summary": "AI-first stock research and screening platform for Indian markets (NSE and BSE). Ask questions in plain language and get answers backed by financials, a 326-ratio fundamental and technical screener, FII/DII institutional flows, and a public MCP server for AI agents."
+  }
+]
