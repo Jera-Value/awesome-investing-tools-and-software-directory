@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -308,6 +308,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Stockoscope](https://stockoscope.com) — Stockoscope is a visual U.S. stock research platform built around five connected lenses: quality, peers, valuation, analysts, and holdings. It combines configurable fundamental scores, peer ranks, intrinsic-value… ([research profile](https://www.findmymoat.com/tools/stockoscope?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stockoscope))
 - [Strike.Market](https://strike.market) — Strike.Market is a free equity research and stock screener site that combines fundamentals with alternative-data signals such as website traffic, app rankings, social followers, Google Trends, job postings, patents,… ([research profile](https://www.findmymoat.com/tools/strike-market?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=strike-market))
 - [Sure Dividend](https://www.suredividend.com) — Sure Dividend is a dividend-focused research publisher for long-term income investors who want curated newsletters, dividend-growth stock ideas, valuation work, ranking spreadsheets, and downloadable dividend lists. It… ([research profile](https://www.findmymoat.com/tools/sure-dividend?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sure-dividend))
+- [Tapetide](https://tapetide.com) — AI-first stock research and screening platform for Indian markets (NSE and BSE). Ask questions in plain language and get answers backed by financials, a 326-ratio fundamental and technical screener, FII/DII…
 - [TC2000](https://www.tc2000.com) — TC2000 is a long-standing charting, scanning, alerting, paper-trading, options-analysis, and brokerage-connected platform for active U.S. stock, ETF, and options traders. It is strongest for users who want streaming… ([research profile](https://www.findmymoat.com/tools/tc2000?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tc2000))
 - [The Fly Pro](https://www.thefly.com/) — The Fly Pro is a visual stock research, company KPI, and real-time news platform that now receives traffic from the legacy Main Street Data URL. It is useful for investors who want company-specific operating metrics,… ([research profile](https://www.findmymoat.com/tools/the-fly-pro?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=the-fly-pro))
 - [The Ledger Terminal](https://theledgerterminal.com) — The Ledger Terminal is a web-based fundamental stock research terminal built around one-page U.S. stock tearsheets, valuation charts, quality checks, screeners, comparisons, and SEC-linked financial history. It is aimed… ([research profile](https://www.findmymoat.com/tools/the-ledger-terminal?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=the-ledger-terminal))
