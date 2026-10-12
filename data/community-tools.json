@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "FerimanEdge Regime Tracker",
+    "url": "https://ferimanedge.com/regime",
+    "categories": [
+      "Alerts",
+      "Data Visualizations"
+    ],
+    "summary": "Free rule-based crypto market regime tracker for BTC, ETH and BNB, with hourly updates and optional Discord notifications."
+  }
+]
