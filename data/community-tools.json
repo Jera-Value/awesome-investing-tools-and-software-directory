@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Invokely",
+    "url": "https://invokely.ai/",
+    "categories": ["Macro Data", "APIs & Data Feeds"],
+    "summary": "For macro research, query official indicators such as GDP, employment and inflation through a REST API or hosted MCP server. Responses include period, unit and source citation; the free plan includes 500 calls a month."
+  }
+]
