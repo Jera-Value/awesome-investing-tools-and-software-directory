@@ -952,21 +952,21 @@
       "sourceVerifiedAt": "2026-08-04T00:00:00.000Z"
     },
     {
-      "name": "Roic AI",
+      "name": "roic.ai",
       "url": "https://www.roic.ai",
       "categories": [
+        "APIs & Data Feeds",
         "Financials",
         "Transcripts",
         "News",
         "Screeners",
-        "APIs & Data Feeds",
         "Sheets / Excel Add-ins",
         "Splits",
         "Stock Handbook",
         "AI Research",
         "AI Chat"
       ],
-      "summary": "Roic AI is a financial data, stock research, and API platform for investors and developers who want company financials, transcripts, news, screeners, exports, spreadsheet endpoints, AI research assistance, and MCP or ChatGPT workflows. It is strongest for fundamentals and agent-ready data access, with worldwide coverage on every plan, but plan differences matter for rate limits, history depth, transcript depth, and commercial API use.",
+      "summary": "roic.ai is a fundamentals and earnings call transcripts API for developers, quants and AI agents who need financial statements, 90+ pre-calculated ratios (ROIC, ROE, margins) and transcripts for 68k+ companies over REST or MCP, with a free tier of 5 requests per minute.",
       "sourceVerifiedAt": "2026-06-20T00:00:00.000Z"
     },
     {
