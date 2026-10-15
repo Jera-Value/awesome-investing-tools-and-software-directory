@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Tradune",
+    "url": "https://tradune.com",
+    "categories": ["Portfolio", "Insider Data", "Institutional Ownership", "Screeners", "Watchlist", "Alerts", "Risk Metrics"],
+    "summary": "Tradune is a portfolio tracker for US-market investors that keeps the buy and sell history, computes money-weighted (XIRR) and time-weighted returns from CSV imports with no broker linking, and compares them with the same contributions in an S&P 500 ETF. It also shows public SEC data: a Form 4 insider-trading feed with 10b5-1 plan status and cluster detection, and 13F institutional holdings."
+  }
+]
