@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -30,7 +30,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
-| [🧮 Calculators](#-calculators) | 2 |
+| [🧮 Calculators](#-calculators) | 3 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
 | [📊 Research and Valuation](#-research-and-valuation) | 40 |
 
@@ -400,6 +400,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) — NerdWallet Compound Interest Calculator is a free, no-login calculator for estimating how savings or investments may grow with compound interest. It is best for simple education and scenario planning, not portfolio… ([research profile](https://www.findmymoat.com/tools/nerdwallet-compound-interest-calculator?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=nerdwallet-compound-interest-calculator))
 - [ProjectionLab](https://projectionlab.com) — ProjectionLab is a web-based financial and retirement planning simulator for mapping income, spending, investments, major life events, financial independence, and estate outcomes over time. Users can compare what-if… ([research profile](https://www.findmymoat.com/tools/projectionlab?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=projectionlab))
+- [YuRa Trading](https://yuratrading.com/tools) — Free browser calculators that help traders size positions and check risk before placing trades, including position size, pip value, drawdown, risk of ruin, Kelly and a Monte Carlo simulator that resamples a list of…
 
 [Back to contents](#contents)
 
