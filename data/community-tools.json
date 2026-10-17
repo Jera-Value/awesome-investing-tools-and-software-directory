@@ -8,5 +8,16 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "YuRa Trading",
+    "url": "https://yuratrading.com/tools",
+    "categories": [
+      "Position Sizing",
+      "Monte Carlo",
+      "Risk Metrics",
+      "Compounding Calculator"
+    ],
+    "summary": "Free browser calculators that help traders size positions and check risk before placing trades, including position size, pip value, drawdown, risk of ruin, Kelly and a Monte Carlo simulator that resamples a list of trade results. No account needed."
   }
 ]
