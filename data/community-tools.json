@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Stock Radar",
+    "url": "https://stock-radar.org/mobile-app",
+    "categories": ["Stock Ideas", "Risk Metrics", "Watchlist"],
+    "summary": "Stock Radar is an iOS and Android app for reviewing directional signals on US-listed stocks and ETFs, with risk labels, target and stop levels when available, a watchlist, and recorded historical outcomes. Its analysis is educational and is not personalized financial advice."
+  }
+]

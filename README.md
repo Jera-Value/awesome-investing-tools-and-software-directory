@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -298,6 +298,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Special Situation Investments (SSI)](https://www.specialsituationinvestments.com/ideas/) — Special Situation Investments is a niche event-driven research site and paid community for investors looking for special-situation ideas, active discussions, high-conviction writeups, catalyst timelines, upside targets,… ([research profile](https://www.findmymoat.com/tools/special-situation-investments-ssi?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=special-situation-investments-ssi))
 - [Special Situations Digest](https://specialsitsdigest.com) — Special Situations Digest is a weekly global event-driven research workflow for investors sourcing activist campaigns, strategic reviews, spin-offs, going-private deals, divestitures, tender offers, restructurings, and… ([research profile](https://www.findmymoat.com/tools/special-situations-digest?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=special-situations-digest))
 - [Stock Analysis](https://stockanalysis.com) — Stock Analysis is a web and mobile research hub for investors who want stock screeners, financial statements, earnings calendars, market news, charts, analyst forecasts, watchlists, and portfolio tracking in one… ([research profile](https://www.findmymoat.com/tools/stock-analysis?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-analysis))
+- [Stock Radar](https://stock-radar.org/mobile-app) — Stock Radar is an iOS and Android app for reviewing directional signals on US-listed stocks and ETFs, with risk labels, target and stop levels when available, a watchlist, and recorded historical outcomes. Its analysis…
 - [Stock Rover](https://www.stockrover.com) — Stock Rover is a web-based stock, ETF, fund, and portfolio research platform for investors who want 800+ financial metrics, 20 years of historical fundamentals, deep portfolio analytics, dividend tracking, automated… ([research profile](https://www.findmymoat.com/tools/stock-rover?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-rover))
 - [Stock Spinoff Investing](https://stockspinoffinvesting.com) — Stock Spinoff Investing is a niche research site and paid newsletter for investors focused on spin-offs and related special situations. Its free value is the upcoming and completed spin-off calendar; SSI Premium adds… ([research profile](https://www.findmymoat.com/tools/stock-spinoff-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-spinoff-investing))
 - [Stock Unlock](https://stockunlock.com) — Stock Unlock is a global stock and ETF research platform that combines stock scores, screeners, DCF tools, comparison charts, watchlists, and portfolio tracking. It is built for retail investors who want research and… ([research profile](https://www.findmymoat.com/tools/stock-unlock?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-unlock))
