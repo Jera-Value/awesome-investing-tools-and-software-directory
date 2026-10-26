@@ -8,5 +8,14 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "SiftingIO",
+    "url": "https://sifting.io/",
+    "categories": [
+      "APIs & Data Feeds",
+      "Sheets / Excel Add-ins"
+    ],
+    "summary": "Real-time and historical US stocks and ETFs, forex, commodities and crypto via REST and WebSocket APIs, with 25+ years of US stock history where available. Free API-key plan with usage limits."
   }
 ]

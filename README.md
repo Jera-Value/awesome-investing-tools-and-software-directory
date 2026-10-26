@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -28,7 +28,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
-| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
+| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 38 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
@@ -370,6 +370,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [OpenBB](https://openbb.co) — OpenBB combines an open-source financial data layer with a hosted Workspace for dashboards, AI research, custom agents, and team workflows. It is best for analysts, quants, developers, and firms that want to connect… ([research profile](https://www.findmymoat.com/tools/openbb?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=openbb))
 - [OpenCorporates](https://opencorporates.com) — OpenCorporates is a large legal-entity and company registry database for researchers, investigators, data teams, KYC workflows, ownership mapping, and corporate transparency work. It provides entity identity,… ([research profile](https://www.findmymoat.com/tools/opencorporates?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=opencorporates))
 - [SEC API (sec-api.io)](https://sec-api.io) — SEC API is a commercial SEC/EDGAR API suite for developers, quants, compliance teams, and AI products that need fast filing search, real-time feeds, XBRL-to-JSON conversion, section extraction, insider filings, 13F… ([research profile](https://www.findmymoat.com/tools/sec-api-sec-api-io?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sec-api-sec-api-io))
+- [SiftingIO](https://sifting.io/) — Real-time and historical US stocks and ETFs, forex, commodities and crypto via REST and WebSocket APIs, with 25+ years of US stock history where available. Free API-key plan with usage limits.
 - [StreamXLS](https://streamxls.com/) — StreamXLS is a Windows-only Excel RTD bridge for investors and trading desks that want their own Interactive Brokers quotes, account values, positions, live P&L, and open-order state inside spreadsheet formulas. It runs… ([research profile](https://www.findmymoat.com/tools/streamxls?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=streamxls))
 - [Tiingo](https://www.tiingo.com) — Tiingo is an API-first market data provider for developers, quants, and small teams that need transparent flat-rate access to prices, fundamentals, corporate actions, news, forex, and crypto data. It is strongest when… ([research profile](https://www.findmymoat.com/tools/tiingo?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tiingo))
 - [U.S. Bureau of Labor Statistics (BLS)](https://www.bls.gov) — The U.S. Bureau of Labor Statistics is the official free source for U.S. labor-market, inflation, wage, productivity, price, employment, unemployment, and occupational statistics. It is strongest for macro dashboards,… ([research profile](https://www.findmymoat.com/tools/u-s-bureau-of-labor-statistics-bls?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=u-s-bureau-of-labor-statistics-bls))
