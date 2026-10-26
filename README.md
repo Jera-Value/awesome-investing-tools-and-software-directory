@@ -337,6 +337,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 [Back to contents](#contents)
 
 ---
+- [Level Public Contractor & SMB Benchmarks](https://levelcfo.com/benchmarks/) - Public specialty contractor cash/equity multiples, 19-trade margin benchmarks, and 9.08M US commercial building expenditure dataset ([TradesIndex](https://tradesindex.org) | [GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 ### 🤖 Automation, Data and Integrations
 
