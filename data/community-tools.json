@@ -8,5 +8,14 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "CalcToolsBiz",
+    "url": "https://calctoolsbiz.com",
+    "categories": [
+      "Compounding Calculator",
+      "Retirement Calculator"
+    ],
+    "summary": "Free online calculators for mortgage payments, compound interest, salary and retirement savings, including Canadian RRSP and TFSA calculators."
   }
 ]
