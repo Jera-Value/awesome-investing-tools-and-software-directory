@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "MoneyNest",
+    "url": "https://getmoneynest.com",
+    "categories": [
+      "Education",
+      "Retirement Calculator",
+      "Compounding Calculator"
+    ],
+    "summary": "Plain-English personal finance guides and free calculators covering investing, retirement accounts, taxes and debt payoff."
   }
 ]
