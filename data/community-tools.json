@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "DisconfirmAI",
+    "url": "https://disconfirmai.com/en",
+    "categories": [
+      "AI Research",
+      "Valuation Models",
+      "Citations & Source Pinning"
+    ],
+    "summary": "AI investment research workspace and public toolkit that separates verified filing facts from inferences, tracks falsification conditions, and offers 23 free valuation and risk-review tools alongside global AI industry databases."
   }
 ]
