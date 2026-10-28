@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Wave Radar",
+    "url": "https://waveradar.us",
+    "categories": [
+      "Screeners",
+      "Options",
+      "Market Sentiment"
+    ],
+    "summary": "Screens 7,000+ US and Asian stocks for 75 technical signals and shows each signal's historical win rate on that stock, with gamma exposure, fair-value bands, insider and 13F data and a daily community fear-and-greed reading. AI summarizes macro data and breaking news, and for heavily discussed stocks a combined model of technicals, news, insider trades, gamma, valuation, earnings, sentiment and fund flow estimates the next few sessions' move. Free account available."
   }
 ]

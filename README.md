@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -329,6 +329,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Valuesider](https://valuesider.com) — Valuesider is a free web tool for tracking superinvestor portfolios, aggregated guru holdings, recent buys and sells, and security ownership based on SEC 13F filings. It is useful for value-investor idea generation, but… ([research profile](https://www.findmymoat.com/tools/valuesider?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=valuesider))
 - [Variant](https://variantavatars.com) — Variant is an AI investment-avatar platform for advanced investors who want to build hedge-fund-style avatars, access continuous market analysis, surface public-market insights, and participate in a tokenized… ([research profile](https://www.findmymoat.com/tools/variant?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=variant))
 - [WallStreetZen](https://www.wallstreetzen.com) — WallStreetZen is a stock research and screening platform built around Zen Ratings, top analyst tracking, due diligence checks, forecasts, advanced screeners, price-move explanations, and watchlist updates. It fits… ([research profile](https://www.findmymoat.com/tools/wallstreetzen?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wallstreetzen))
+- [Wave Radar](https://waveradar.us) — Screens 7,000+ US and Asian stocks for 75 technical signals and shows each signal's historical win rate on that stock, with gamma exposure, fair-value bands, insider and 13F data and a daily community…
 - [YCharts](https://ycharts.com) — YCharts is an advisor- and asset-manager-focused investment research, portfolio analytics, proposal, reporting, and client-communication platform. It is strongest for professionals who need client-ready charts,… ([research profile](https://www.findmymoat.com/tools/ycharts?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=ycharts))
 - [Yellowbrick Investing](https://www.joinyellowbrick.com) — Yellowbrick Investing is a stock-idea and hedge-fund-holdings research platform for investors who want searchable pitches, investor feeds, 13F-based fund activity, daily idea emails, and a premium model portfolio… ([research profile](https://www.findmymoat.com/tools/yellowbrick-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=yellowbrick-investing))
 - [Zacks (Zacks.com)](https://www.zacks.com) — Zacks.com is a retail equity and fund research site built around the Zacks Rank, earnings-estimate revisions, Style Scores, screeners, calendars, ETF research, and portfolio alerts. It is strongest for investors who… ([research profile](https://www.findmymoat.com/tools/zacks-zacks-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=zacks-zacks-com))
