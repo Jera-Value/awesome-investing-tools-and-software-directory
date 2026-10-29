@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -28,7 +28,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
-| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
+| [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 38 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
@@ -372,6 +372,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [SEC API (sec-api.io)](https://sec-api.io) — SEC API is a commercial SEC/EDGAR API suite for developers, quants, compliance teams, and AI products that need fast filing search, real-time feeds, XBRL-to-JSON conversion, section extraction, insider filings, 13F… ([research profile](https://www.findmymoat.com/tools/sec-api-sec-api-io?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sec-api-sec-api-io))
 - [StreamXLS](https://streamxls.com/) — StreamXLS is a Windows-only Excel RTD bridge for investors and trading desks that want their own Interactive Brokers quotes, account values, positions, live P&L, and open-order state inside spreadsheet formulas. It runs… ([research profile](https://www.findmymoat.com/tools/streamxls?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=streamxls))
 - [Tiingo](https://www.tiingo.com) — Tiingo is an API-first market data provider for developers, quants, and small teams that need transparent flat-rate access to prices, fundamentals, corporate actions, news, forex, and crypto data. It is strongest when… ([research profile](https://www.findmymoat.com/tools/tiingo?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tiingo))
+- [TradingAIHub](https://tradingaihub.com) — Free directory of MCP servers, agent skills and APIs that connect AI assistants to market data, brokers and filings, re-checked weekly for maintenance status.
 - [U.S. Bureau of Labor Statistics (BLS)](https://www.bls.gov) — The U.S. Bureau of Labor Statistics is the official free source for U.S. labor-market, inflation, wage, productivity, price, employment, unemployment, and occupational statistics. It is strongest for macro dashboards,… ([research profile](https://www.findmymoat.com/tools/u-s-bureau-of-labor-statistics-bls?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=u-s-bureau-of-labor-statistics-bls))
 - [USAspending](https://www.usaspending.gov) — USAspending is the official U.S. federal spending open-data portal for awards, recipients, agencies, federal accounts, contracts, grants, loans, and other spending records. It helps investors and builders research… ([research profile](https://www.findmymoat.com/tools/usaspending?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=usaspending))
 - [Wayback Machine (Internet Archive)](https://web.archive.org) — Wayback Machine is the Internet Archive's web-archive service for saving, discovering, and citing historical versions of webpages. For investment research, it is useful for checking old IR pages, fund pages, pricing… ([research profile](https://www.findmymoat.com/tools/wayback-machine-internet-archive?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wayback-machine-internet-archive))

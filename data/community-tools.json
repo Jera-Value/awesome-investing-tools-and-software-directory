@@ -8,5 +8,14 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "TradingAIHub",
+    "url": "https://tradingaihub.com",
+    "categories": [
+      "APIs & Data Feeds",
+      "AI Research"
+    ],
+    "summary": "Free directory of MCP servers, agent skills and APIs that connect AI assistants to market data, brokers and filings, re-checked weekly for maintenance status."
   }
 ]
