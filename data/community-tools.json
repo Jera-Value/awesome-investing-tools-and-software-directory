@@ -1,5 +1,16 @@
 [
   {
+    "name": "Quotelinks",
+    "url": "https://www.quotelinks.com",
+    "categories": [
+      "Screeners",
+      "ETF Screeners",
+      "Financials",
+      "Data Visualizations"
+    ],
+    "summary": "Free stock and ETF screener with per-ticker pages covering quotes, interactive charts, financial statements, key metrics and news for US stocks and ETFs. No account required."
+  },
+  {
     "name": "Tracking Alpha",
     "url": "https://www.trackingalpha.app/en",
     "categories": [
