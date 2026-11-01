@@ -8,5 +8,11 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
-  }
+  },
+{
+  "name": "PredixLab",
+  "url": "https://predixlab.com/?utm_source=jera_awesome&utm_medium=directory&utm_campaign=launch_2026_10",
+  "categories": ["Screeners", "Options", "Backtesting", "Quant"],
+  "summary": "Daily quantitative signals, multi-factor screener and options activity for S&P 500 and Nasdaq-100. The signal, backtest, API and dashboard code is open source (Apache-2.0); market data is not included. Free plan has a 10-calendar-day delay. Not investment advice."
+}
 ]

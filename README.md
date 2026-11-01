@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -285,6 +285,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [OTC Markets](https://www.otcmarkets.com/) — OTC Markets combines a public research website for U.S. OTC-traded securities with licensed market-data, disclosure, and feed products for professional users. It is useful for OTC issuer pages, tiers, quotes, news,… ([research profile](https://www.findmymoat.com/tools/otc-markets?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=otc-markets))
 - [Perplexity Finance](https://www.perplexity.ai/finance) — Perplexity Finance is an AI-assisted finance research experience that combines cited answers with stock, ETF, fund, crypto, options, news, charts, screeners, earnings documents, ownership data, government trading views,… ([research profile](https://www.findmymoat.com/tools/perplexity-finance?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=perplexity-finance))
 - [Portfolio123](https://www.portfolio123.com) — Portfolio123 is a rules-based quant research and portfolio-management platform for investors who want stock and ETF screeners, ranking systems, factor research, realistic backtests, strategy simulations, portfolio… ([research profile](https://www.findmymoat.com/tools/portfolio123?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=portfolio123))
+- [PredixLab](https://predixlab.com/?utm_source=jera_awesome&utm_medium=directory&utm_campaign=launch_2026_10) — Daily quantitative signals, multi-factor screener and options activity for S&P 500 and Nasdaq-100. The signal, backtest, API and dashboard code is open source (Apache-2.0); market data is not included. Free plan has a…
 - [Prospero.ai](https://www.prospero.ai) — Prospero.ai is a free mobile-first AI signal app for U.S. stocks and ETFs, with proprietary short-term and long-term signals, daily screens, stock picks, watchlists, notifications, and education. It is useful for… ([research profile](https://www.findmymoat.com/tools/prospero-ai?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=prospero-ai))
 - [QuantRocket](https://www.quantrocket.com) — QuantRocket is a Docker- and Jupyter-based quant research, backtesting, data, and live-trading platform for technical Python users. It is strongest when you want local infrastructure, Interactive Brokers integration,… ([research profile](https://www.findmymoat.com/tools/quantrocket?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=quantrocket))
 - [Quiver Quantitative](https://www.quiverquant.com) — Quiver Quantitative is an alternative-data platform for investors who want dashboards, screeners, alerts, backtests, and API access around political trading, insider activity, institutional holdings, lobbying,… ([research profile](https://www.findmymoat.com/tools/quiver-quantitative?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=quiver-quantitative))
