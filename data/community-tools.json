@@ -1,5 +1,11 @@
 [
   {
+    "name": "Calculation Hub",
+    "url": "https://calculation-hub.com/financial/compound-interest",
+    "categories": ["Compounding Calculator"],
+    "summary": "Free calculator projecting compound growth from principal, contributions, rates and time, with optional tax and inflation assumptions. No login required; estimates are not investment advice."
+  },
+  {
     "name": "Tracking Alpha",
     "url": "https://www.trackingalpha.app/en",
     "categories": [
