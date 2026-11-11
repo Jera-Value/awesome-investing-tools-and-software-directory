@@ -1,5 +1,15 @@
 [
   {
+    "name": "Redstone",
+    "url": "https://redstonemarkets.com",
+    "categories": [
+      "Portfolio",
+      "Backtesting",
+      "Risk Metrics"
+    ],
+    "summary": "Free return and risk analytics for about 2,900 US stocks and 1,200 ETFs (Sharpe, Sortino, max drawdown, beta, correlation, backtests), with a public read-only MCP server for AI assistants."
+  },
+  {
     "name": "Tracking Alpha",
     "url": "https://www.trackingalpha.app/en",
     "categories": [
