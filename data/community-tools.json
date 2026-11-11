@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "MarketStory",
+    "url": "https://marketstory.com",
+    "categories": [
+      "Market Sentiment",
+      "Stock Ideas",
+      "Bulls Say Bear Say"
+    ],
+    "summary": "MarketStory tracks what 2,000+ investors post on YouTube and X and organises it by stock: a bull and bear case for each stock, a sentiment timeline that marks when investor chatter shifts, and each investor’s repeated picks. Stock pages and the latest shifts are free; tracking and email reports are paid."
   }
 ]
