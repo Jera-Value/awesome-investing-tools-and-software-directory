@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -277,6 +277,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Macrotrends](https://www.macrotrends.net/) — Macrotrends is a web-based historical charting, stock research, and macro data site for investors who want long-run stock prices, fundamentals, dividends, indices, commodities, exchange rates, interest rates, global… ([research profile](https://www.findmymoat.com/tools/macrotrends?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=macrotrends))
 - [Magic Formula Investing](https://www.magicformulainvesting.com) — Magic Formula Investing is the official free Joel Greenblatt-style stock screener based on the Magic Formula strategy from The Little Book That Beats the Market. It ranks U.S.-listed non-financial, non-utility stocks… ([research profile](https://www.findmymoat.com/tools/magic-formula-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=magic-formula-investing))
 - [MarketInOut](https://www.marketinout.com) — MarketInOut is a formula-driven stock, ETF, forex, and crypto screener with historical screening, strategy backtesting, alerts, watchlists, simple portfolio views, correlation tools, and one-time membership terms. It… ([research profile](https://www.findmymoat.com/tools/marketinout?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=marketinout))
+- [MarketStory](https://marketstory.com) — MarketStory tracks what 2,000+ investors post on YouTube and X and organises it by stock: a bull and bear case for each stock, a sentiment timeline that marks when investor chatter shifts, and each investor’s repeated picks. Stock pages and the latest shifts are free; tracking and email reports are paid.
 - [MarketSurge](https://get.investors.com/marketsurge/) — MarketSurge is Investor’s Business Daily’s premium stock research, screening, charting, ratings, alerts, and idea-list platform for IBD-style growth and swing traders. It carries the MarketSmith lineage and emphasizes… ([research profile](https://www.findmymoat.com/tools/marketsurge?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=marketsurge))
 - [Monexa](https://www.monexa.ai) — Monexa was cataloged as a low-cost AI stock-analysis workspace for screening, company dashboards, financial statements, DCF models, filings, transcripts, ownership views, and congressional-trading research. Its… ([research profile](https://www.findmymoat.com/tools/monexa?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=monexa))
 - [Morningstar Investor](https://www.morningstar.com) — Morningstar Investor is a subscription research product for long-term investors who want Morningstar ratings, analyst reports, fair value estimates, moat research, screeners, and portfolio analysis. It is especially… ([research profile](https://www.findmymoat.com/tools/morningstar-investor?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=morningstar-investor))
