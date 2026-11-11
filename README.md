@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -26,7 +26,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
-| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
+| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 42 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
@@ -215,6 +215,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Portseido](https://www.portseido.com) — Portseido is a global investment portfolio tracker for self-directed investors who want transaction-based performance, dividend tracking, allocation views, risk metrics, benchmarking, lot analysis, multi-currency… ([research profile](https://www.findmymoat.com/tools/portseido?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=portseido))
 - [Qfinr](https://www.qfinr.com) — Qfinr is a subscription portfolio analytics platform for investors who want multi-asset tracking, risk views, stress testing, and idea discovery without relying on live broker sync. Its public positioning is strongest… ([research profile](https://www.findmymoat.com/tools/qfinr?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=qfinr))
 - [Quicken (Simplifi & Classic)](https://www.quicken.com) — Quicken is personal finance software with investment tracking layered into household budgeting, tax, retirement, and account-aggregation workflows. Simplifi is the web and mobile path for real-time portfolio tracking,… ([research profile](https://www.findmymoat.com/tools/quicken-simplifi-classic?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=quicken-simplifi-classic))
+- [Redstone](https://redstonemarkets.com) — Free return and risk analytics for about 2,900 US stocks and 1,200 ETFs (Sharpe, Sortino, max drawdown, beta, correlation, backtests), with a public read-only MCP server for AI assistants.
 - [rotki](https://rotki.com/) — rotki is a privacy-focused portfolio tracker and accounting tool that runs on the user's own machine. It combines exchange and blockchain activity, decodes on-chain events, tracks balances and history, and produces… ([research profile](https://www.findmymoat.com/tools/rotki?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=rotki))
 - [Sharesight](https://www.sharesight.com/eu/) — Sharesight is a global portfolio, dividend, performance, and tax-reporting tracker for DIY investors, accountants, advisers, and family offices. It is built for keeping investment records and reports across brokers and… ([research profile](https://www.findmymoat.com/tools/sharesight?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sharesight))
 - [Simply Safe Dividends](https://www.simplysafedividends.com) — Simply Safe Dividends is a dividend-focused research and portfolio tracker built around 0-100 Dividend Safety Scores, income forecasts, dividend alerts, screeners, valuation charts, and portfolio monitoring. It is… ([research profile](https://www.findmymoat.com/tools/simply-safe-dividends?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=simply-safe-dividends))
