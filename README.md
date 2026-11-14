@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -20,19 +20,19 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | Section | Tools |
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
-| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 27 |
+| [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 28 |
 | [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -76,6 +76,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Stockcircle](https://stockcircle.com/) — Stockcircle is a web app for following disclosed investor portfolios, guru transactions, insider trades, U.S. Congress trades, ETF holdings, valuation pages, screeners, alerts, and Pro-only AI earnings-call summaries.… ([research profile](https://www.findmymoat.com/tools/stockcircle?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stockcircle))
 - [The Zen of Investing](https://thezenofinvesting.com) — The Zen of Investing is a free, niche special-situations site focused on upcoming and recent spinoffs. It is useful for event-driven investors who want curated links to press releases, investor decks, prospectuses,… ([research profile](https://www.findmymoat.com/tools/the-zen-of-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=the-zen-of-investing))
 - [Tracefour](https://tracefour.com) — Tracefour is a free insider-trade heatmap for investors who want to scan U.S. insider filings, selected European director-dealing disclosures, and U.S. Congress trades in one browser view. It is useful when… ([research profile](https://www.findmymoat.com/tools/tracefour?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tracefour))
+- [Tracking Alpha](https://www.trackingalpha.app/en) — Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open.
 - [Wall St. Rank](https://www.wallstrank.com) — Wall St. Rank is a fund- and analyst-consensus research product for 13F manager portfolios, fund trends, analyst ratings, price targets, news sentiment, indexes, and API-accessible data. It is useful for U.S.-listed… ([research profile](https://www.findmymoat.com/tools/wall-st-rank?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wall-st-rank))
 - [WhaleWisdom](https://whalewisdom.com/) — WhaleWisdom is a 13F, institutional ownership, insider, and hedge-fund holdings platform for investors who track filer activity, fund portfolios, watchlists, backtests, exports, and API workflows. It is useful for… ([research profile](https://www.findmymoat.com/tools/whalewisdom?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=whalewisdom))
 
@@ -298,7 +299,6 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Special Situation Investments (SSI)](https://www.specialsituationinvestments.com/ideas/) — Special Situation Investments is a niche event-driven research site and paid community for investors looking for special-situation ideas, active discussions, high-conviction writeups, catalyst timelines, upside targets,… ([research profile](https://www.findmymoat.com/tools/special-situation-investments-ssi?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=special-situation-investments-ssi))
 - [Special Situations Digest](https://specialsitsdigest.com) — Special Situations Digest is a weekly global event-driven research workflow for investors sourcing activist campaigns, strategic reviews, spin-offs, going-private deals, divestitures, tender offers, restructurings, and… ([research profile](https://www.findmymoat.com/tools/special-situations-digest?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=special-situations-digest))
 - [Stock Analysis](https://stockanalysis.com) — Stock Analysis is a web and mobile research hub for investors who want stock screeners, financial statements, earnings calendars, market news, charts, analyst forecasts, watchlists, and portfolio tracking in one… ([research profile](https://www.findmymoat.com/tools/stock-analysis?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-analysis))
-- [Stock Radar](https://stock-radar.org/mobile-app) — Stock Radar is an iOS and Android app for reviewing directional signals on US-listed stocks and ETFs, with risk labels, target and stop levels when available, a watchlist, and recorded historical outcomes. Its analysis…
 - [Stock Rover](https://www.stockrover.com) — Stock Rover is a web-based stock, ETF, fund, and portfolio research platform for investors who want 800+ financial metrics, 20 years of historical fundamentals, deep portfolio analytics, dividend tracking, automated… ([research profile](https://www.findmymoat.com/tools/stock-rover?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-rover))
 - [Stock Spinoff Investing](https://stockspinoffinvesting.com) — Stock Spinoff Investing is a niche research site and paid newsletter for investors focused on spin-offs and related special situations. Its free value is the upcoming and completed spin-off calendar; SSI Premium adds… ([research profile](https://www.findmymoat.com/tools/stock-spinoff-investing?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-spinoff-investing))
 - [Stock Unlock](https://stockunlock.com) — Stock Unlock is a global stock and ETF research platform that combines stock scores, screeners, DCF tools, comparison charts, watchlists, and portfolio tracking. It is built for retail investors who want research and… ([research profile](https://www.findmymoat.com/tools/stock-unlock?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stock-unlock))
@@ -483,6 +483,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Sensor Tower](https://sensortower.com) — Sensor Tower is a sales-led mobile app, advertising, gaming, web, and audience intelligence platform for analysts who use app downloads, usage, revenue estimates, ad creatives, audience behavior, and web/app trends as… ([research profile](https://www.findmymoat.com/tools/sensor-tower?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sensor-tower))
 - [Similarweb](https://www.similarweb.com) — Similarweb is a digital intelligence and website traffic analytics platform for researching web traffic, app usage, keywords, referrals, competitors, companies, technologies, and online market share. For investors, it… ([research profile](https://www.findmymoat.com/tools/similarweb?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=similarweb))
 - [Social Blade](https://socialblade.com) — Social Blade is a social-channel analytics site and API for tracking public creator statistics across YouTube, TikTok, Twitch, Instagram, Facebook, and X/Twitter. It has large branded and YouTube analytics demand,… ([research profile](https://www.findmymoat.com/tools/social-blade?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=social-blade))
+- [Stock Radar](https://stock-radar.org/mobile-app?lang=en&src=community) — Stock Radar is an educational iOS and Android app for reviewing directional signals on US-listed stocks and ETFs, with risk context, targets and stops when available, a watchlist, and recorded outcomes. iOS is available…
 - [StockInsights.ai](https://www.stockinsights.ai) — StockInsights.ai is an AI equity research assistant for filings, earnings calls, transcript summaries, 8-K categorization, SEC filing dashboards, watchlist alerts, APIs, and custom research workflows. It is useful for… ([research profile](https://www.findmymoat.com/tools/stockinsights-ai?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stockinsights-ai))
 - [Total Real Returns](https://totalrealreturns.com/) — Total Real Returns is a free web tool for charting real purchasing-power returns and nominal total returns with dividends reinvested. It is strongest for investors who want a fast visual answer to how stocks, ETFs,… ([research profile](https://www.findmymoat.com/tools/total-real-returns?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=total-real-returns))
 - [TradingView](https://www.tradingview.com) — TradingView is a chart-first market analysis platform for traders who want powerful charts, screeners, alerts, Pine Script, paper trading, and broker-connected trading across many asset classes. It is strongest when… ([research profile](https://www.findmymoat.com/tools/tradingview?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tradingview))
