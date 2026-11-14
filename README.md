@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -32,7 +32,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -483,6 +483,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Sensor Tower](https://sensortower.com) — Sensor Tower is a sales-led mobile app, advertising, gaming, web, and audience intelligence platform for analysts who use app downloads, usage, revenue estimates, ad creatives, audience behavior, and web/app trends as… ([research profile](https://www.findmymoat.com/tools/sensor-tower?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=sensor-tower))
 - [Similarweb](https://www.similarweb.com) — Similarweb is a digital intelligence and website traffic analytics platform for researching web traffic, app usage, keywords, referrals, competitors, companies, technologies, and online market share. For investors, it… ([research profile](https://www.findmymoat.com/tools/similarweb?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=similarweb))
 - [Social Blade](https://socialblade.com) — Social Blade is a social-channel analytics site and API for tracking public creator statistics across YouTube, TikTok, Twitch, Instagram, Facebook, and X/Twitter. It has large branded and YouTube analytics demand,… ([research profile](https://www.findmymoat.com/tools/social-blade?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=social-blade))
+- [Stock Radar](https://stock-radar.org/mobile-app?lang=en&src=community) — Stock Radar is an educational iOS and Android app for reviewing directional signals on US-listed stocks and ETFs, with risk context, targets and stops when available, a watchlist, and recorded outcomes. iOS is available…
 - [StockInsights.ai](https://www.stockinsights.ai) — StockInsights.ai is an AI equity research assistant for filings, earnings calls, transcript summaries, 8-K categorization, SEC filing dashboards, watchlist alerts, APIs, and custom research workflows. It is useful for… ([research profile](https://www.findmymoat.com/tools/stockinsights-ai?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=stockinsights-ai))
 - [Total Real Returns](https://totalrealreturns.com/) — Total Real Returns is a free web tool for charting real purchasing-power returns and nominal total returns with dividends reinvested. It is strongest for investors who want a fast visual answer to how stocks, ETFs,… ([research profile](https://www.findmymoat.com/tools/total-real-returns?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=total-real-returns))
 - [TradingView](https://www.tradingview.com) — TradingView is a chart-first market analysis platform for traders who want powerful charts, screeners, alerts, Pine Script, paper trading, and broker-connected trading across many asset classes. It is strongest when… ([research profile](https://www.findmymoat.com/tools/tradingview?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=tradingview))

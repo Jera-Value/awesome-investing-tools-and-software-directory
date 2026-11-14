@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Stock Radar",
+    "url": "https://stock-radar.org/mobile-app?lang=en&src=community",
+    "categories": [
+      "Scores",
+      "Risk Metrics",
+      "Watchlist"
+    ],
+    "summary": "Stock Radar is an educational iOS and Android app for reviewing directional signals on US-listed stocks and ETFs, with risk context, targets and stops when available, a watchlist, and recorded outcomes. iOS is available in the US; Android availability depends on Google Play country. It is not personalized financial advice."
   }
 ]
