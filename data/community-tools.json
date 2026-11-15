@@ -8,5 +8,11 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "US Pre-Seed Investors: Energy, Deeptech, Neuro",
+    "url": "https://doi.org/10.5281/zenodo.24239379",
+    "categories": ["APIs & Data Feeds"],
+    "summary": "Open CC BY 4.0 dataset of 152 US pre-seed investors in energy, deeptech, hardware and neuroscience, with a public source on every row. Also at https://huggingface.co/datasets/numberoneks/preseed-investors-us-2026"
   }
 ]
