@@ -8,5 +8,14 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "DDScore",
+    "url": "https://www.ddscore.ai/",
+    "categories": [
+      "AI Research",
+      "Scores"
+    ],
+    "summary": "DDScore helps investors and lenders start due diligence on private companies by cross-checking pitch decks and supporting documents against public sources and identifying questions for follow-up."
   }
 ]
