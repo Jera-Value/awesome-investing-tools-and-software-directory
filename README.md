@@ -401,6 +401,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 
 - [NerdWallet Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator) — NerdWallet Compound Interest Calculator is a free, no-login calculator for estimating how savings or investments may grow with compound interest. It is best for simple education and scenario planning, not portfolio… ([research profile](https://www.findmymoat.com/tools/nerdwallet-compound-interest-calculator?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=nerdwallet-compound-interest-calculator))
 - [ProjectionLab](https://projectionlab.com) — ProjectionLab is a web-based financial and retirement planning simulator for mapping income, spending, investments, major life events, financial independence, and estate outcomes over time. Users can compare what-if… ([research profile](https://www.findmymoat.com/tools/projectionlab?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=projectionlab))
+- [SmartBizCalc](https://www.smartbizcalc.com) — SmartBizCalc is a free collection of 700+ small-business financial calculators covering self-employment tax, payroll, 1099 vs. W-2 comparison, break-even analysis, startup costs, profit margin, contractor pricing, and quarterly estimated tax. All calculators are free to use with no sign-up required, and are designed for self-employed workers, small business owners, and service contractors in the US.
 
 [Back to contents](#contents)
 
