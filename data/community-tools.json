@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "NeoInvests",
+    "url": "https://neoinvests.com/",
+    "categories": [
+      "AI Research",
+      "Portfolio",
+      "Watchlist"
+    ],
+    "summary": "AI investing assistant for checking stock claims, asking company questions and reviewing portfolio briefings. Public worked example; personal use requires signup. Free plan with limits and paid plans."
   }
 ]
