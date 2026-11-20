@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -26,7 +26,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
-| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
+| [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 42 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
@@ -209,6 +209,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Masttro](https://masttro.com) — Masttro is an enterprise wealth operating system for UHNW families, single-family offices, multi-family offices, RIAs, private banks, and professional-services firms that need consolidated reporting across custodians,… ([research profile](https://www.findmymoat.com/tools/masttro?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=masttro))
 - [MesoSim](https://mesosim.io/) — MesoSim is an options strategy backtesting platform for traders who need low-code strategy definitions, multi-leg simulations, risk graphs, Greeks, volatility surfaces, margin models, and paper/live workflow paths. It… ([research profile](https://www.findmymoat.com/tools/mesosim?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=mesosim))
 - [Orion Advisor Tech](https://orion.com/advisor-tech) — Orion Advisor Tech is enterprise infrastructure for RIAs and wealth firms that need portfolio accounting, billing, reporting, tax-aware trading, CRM, planning, compliance, risk analytics, client portals, APIs, and data… ([research profile](https://www.findmymoat.com/tools/orion-advisor-tech?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=orion-advisor-tech))
+- [PerfectPerf](https://www.perfectperf.pro) — Free audit for Interactive Brokers investors who hold individual stocks. It reads the investor's IBKR history and compares the annualized return (IRR) of their stock investments with the same dated amounts invested in…
 - [Portfolio Performance](https://www.portfolio-performance.info) — Portfolio Performance is a free, open-source, local-first desktop portfolio tracker for investors who want detailed performance accounting, TTWROR/IRR reporting, multi-currency support, rebalancing, imports, exports,… ([research profile](https://www.findmymoat.com/tools/portfolio-performance?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=portfolio-performance))
 - [Portfolio Visualizer](https://www.portfoliovisualizer.com) — Portfolio Visualizer is a web-based portfolio analysis suite for backtesting portfolios, testing asset allocations, running Monte Carlo simulations, optimizing allocations, analyzing factors, checking correlations, and… ([research profile](https://www.findmymoat.com/tools/portfolio-visualizer?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=portfolio-visualizer))
 - [PortfoliosLab](https://portfolioslab.com) — PortfoliosLab is a web-based portfolio analytics platform for backtesting, optimization, risk metrics, correlations, screeners, and AI-assisted portfolio workflows. It is useful for comparing stocks, ETFs, funds,… ([research profile](https://www.findmymoat.com/tools/portfolioslab?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=portfolioslab))
