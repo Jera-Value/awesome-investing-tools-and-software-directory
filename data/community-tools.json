@@ -8,5 +8,13 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Canada Tax Planner",
+    "url": "https://canadataxplanner.com",
+    "categories": [
+      "Retirement Calculator"
+    ],
+    "summary": "Canadian income tax calculator for all 13 provinces and territories that helps investors compare RRSP, TFSA and FHSA contributions and see their effect on tax and take-home pay. The core calculator is free."
   }
 ]
