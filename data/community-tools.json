@@ -8,5 +8,13 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "PerfectPerf",
+    "url": "https://www.perfectperf.pro",
+    "categories": [
+      "Portfolio"
+    ],
+    "summary": "Free audit for Interactive Brokers investors who hold individual stocks. It reads the investor's IBKR history and compares the annualized return (IRR) of their stock investments with the same dated amounts invested in an ETF, by account and by position. Uninvested cash is excluded."
   }
 ]
