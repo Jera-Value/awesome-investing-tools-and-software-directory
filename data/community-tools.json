@@ -1,5 +1,15 @@
 [
   {
+    "name": "InvestIQ",
+    "url": "https://www.getinvestiq.com",
+    "categories": [
+      "AI Research",
+      "Scores",
+      "Portfolio"
+    ],
+    "summary": "AI equity research platform: stock analysis with a published scoring method, company research reports, a bull/bear/quant/risk debate on an investment thesis and a portfolio audit from a broker CSV export. Also usable inside Claude and ChatGPT through an MCP server."
+  },
+  {
     "name": "Tracking Alpha",
     "url": "https://www.trackingalpha.app/en",
     "categories": [
