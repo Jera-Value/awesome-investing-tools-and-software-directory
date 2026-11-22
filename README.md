@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -32,7 +32,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -465,6 +465,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [GeminIQ](https://www.geminiq.com) — GeminIQ is a browser-based U.S. public-company research platform built around as-filed SEC financial statements. It combines XBRL-traceable 10-K and 10-Q data with calculated metrics, interactive visualizations,… ([research profile](https://www.findmymoat.com/tools/geminiq?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=geminiq))
 - [Glassdoor](https://www.glassdoor.com) — Glassdoor is an employee reviews, salary, jobs, and employer-branding platform that investors can use as alternative context on culture, hiring, retention, compensation pressure, employer reputation, and workforce… ([research profile](https://www.findmymoat.com/tools/glassdoor?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=glassdoor))
 - [Google Trends](https://trends.google.com/trends) — Google Trends is a free search-interest research tool for investors, operators, marketers, and analysts who want to monitor attention, demand proxies, brand momentum, consumer themes, and news-driven spikes across… ([research profile](https://www.findmymoat.com/tools/google-trends?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=google-trends))
+- [InvestIQ](https://www.getinvestiq.com) — AI equity research platform: stock analysis with a published scoring method, company research reports, a bull/bear/quant/risk debate on an investment thesis and a portfolio audit from a broker CSV export. Also usable…
 - [Journalytic](https://journalytic.com) — Journalytic is an investment journal and decision-process analytics workspace for investors who want to record ideas, thesis changes, checklists, predictions, moods, self-contracts, and postmortems in one place. It is… ([research profile](https://www.findmymoat.com/tools/journalytic?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=journalytic))
 - [LIQN](https://liqn.ai) — LIQN (Liquidation Nation) is a factor-first market intelligence workspace for reading which themes and behaviors are working across 5,000+ stocks, what regime surrounds them, and what may move them next. Its unusual mix… ([research profile](https://www.findmymoat.com/tools/liqn?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=liqn))
 - [MacroMicro](https://www.macromicro.me) — MacroMicro is a global macro and market analytics workspace for investors who want economic cycle charts, macro dashboards, ETF tools, institutional holdings views, COT flow, event calendars, correlation charts,… ([research profile](https://www.findmymoat.com/tools/macromicro?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=macromicro))
