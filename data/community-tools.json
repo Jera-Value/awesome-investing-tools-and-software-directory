@@ -8,5 +8,13 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Lifevor Investing & FIRE Calculators",
+    "url": "https://lifevor.com/en/tools/barista-fire-calculator/",
+    "categories": [
+      "Calculators"
+    ],
+    "summary": "Free, 100% client-side financial calculators including Barista FIRE, Coast FIRE, Debt Snowball, Options Profit, and CAGR planning tools with zero sign-up."
   }
 ]
