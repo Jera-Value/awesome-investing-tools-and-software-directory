@@ -8,5 +8,14 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Stock Opinion Extractor",
+    "url": "https://apify.com/o19750120/stock-opinion-extractor-own-posts",
+    "categories": [
+      "APIs & Data Feeds",
+      "Stock Ideas"
+    ],
+    "summary": "Apify Actor that reads posts you supply (an X archive or a pasted list) and returns the tickers each post names, a rule-based bullish, bearish or unclear stance with the evidence sentence, and a per-ticker summary across authors. Paid per row on Apify; no scraping and no model."
   }
 ]
