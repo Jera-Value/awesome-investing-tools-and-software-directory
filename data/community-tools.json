@@ -8,5 +8,14 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Ploutos ETF Overlap",
+    "url": "https://www.ploutos-ai.com/etf-overlap",
+    "categories": [
+      "ETF Overlap",
+      "ETF Comparison"
+    ],
+    "summary": "Free tool that compares two to five US-listed ETFs and shows the weight they share stock by stock, every stock held by all of them and what each holds alone, from each fund's SEC N-PORT filing. No account."
   }
 ]
