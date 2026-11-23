@@ -1,5 +1,15 @@
 [
   {
+    "name": "Tracking Alpha",
+    "url": "https://www.trackingalpha.app/en",
+    "categories": [
+      "Corporate Actions & Special Situations",
+      "Alerts",
+      "Calendar"
+    ],
+    "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
     "name": "Invokely",
     "url": "https://invokely.ai/",
     "categories": ["Macro Data", "APIs & Data Feeds"],

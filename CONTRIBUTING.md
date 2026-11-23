@@ -15,6 +15,8 @@ Payment does not guarantee inclusion or placement. Tools are listed alphabetical
 
 The researched Find My Moat snapshot may retain a small number of transparent historical profiles when an acquisition or shutdown is useful context for finding maintained alternatives. New community submissions must be available now.
 
+Tracking Alpha is a maintainer-owned pre-launch exception, labeled as a waitlist in the directory. The availability requirement above still applies to community submissions.
+
 ## Add a community tool
 
 1. Add one object to `data/community-tools.json`:
