@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -21,7 +21,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | --- | ---: |
 | [🧾 Filings and Transcripts](#-filings-and-transcripts) | 6 |
 | [👥 Ownership and Corporate Activity](#-ownership-and-corporate-activity) | 28 |
-| [🧺 ETFs and Funds](#-etfs-and-funds) | 8 |
+| [🧺 ETFs and Funds](#-etfs-and-funds) | 9 |
 | [🔗 Crypto and On-chain](#-crypto-and-on-chain) | 2 |
 | [⚙️ Options and Derivatives](#-options-and-derivatives) | 7 |
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
@@ -93,6 +93,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [ETF.com](https://www.etf.com) — ETF.com is an ETF media and research site with a U.S. ETF screener, comparison tools, fund flows, holdings search, watchlists, Portfolio Builder, launches, closures, and ETF education. It is useful when you want ETF… ([research profile](https://www.findmymoat.com/tools/etf-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etf-com))
 - [ETFdb ETF Screener](https://etfdb.com/screener/) — ETFdb ETF Screener is a VettaFi ETF database and screener for U.S.-listed ETFs and ETPs, with filters for returns, flows, expenses, ESG, dividends, risk, holdings, taxes, technicals, and ratings. It is useful when ETF… ([research profile](https://www.findmymoat.com/tools/etfdb-etf-screener?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=etfdb-etf-screener))
 - [justETF](https://www.justetf.com/en/) — justETF is a Europe-first ETF research, comparison, and portfolio-planning platform for investors building UCITS ETF and ETC portfolios. It combines ETF screening, fund profiles, stock-to-ETF exposure lookup,… ([research profile](https://www.findmymoat.com/tools/justetf?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=justetf))
+- [Ploutos ETF Overlap](https://www.ploutos-ai.com/etf-overlap) — Free tool that compares two to five US-listed ETFs and shows the weight they share stock by stock, every stock held by all of them and what each holds alone, from each fund's SEC N-PORT filing. No account.
 - [Trackinsight](https://www.trackinsight.com/en) — Trackinsight is a global ETF research and data platform for screening, comparing, monitoring, and analyzing ETFs and ETF portfolios. It is strongest when the job is ETF due diligence, ESG/factor context, portfolio… ([research profile](https://www.findmymoat.com/tools/trackinsight?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=trackinsight))
 
 [Back to contents](#contents)
