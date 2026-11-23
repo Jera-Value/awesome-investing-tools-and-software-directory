@@ -8,5 +8,11 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Invokely",
+    "url": "https://invokely.ai/",
+    "categories": ["Macro Data", "APIs & Data Feeds"],
+    "summary": "Query official GDP, employment and inflation via REST or hosted MCP, with period, unit and citation per value. Free plan: 500 MCP calls/month; REST needs Builder, Pro or prepaid credits."
   }
 ]
