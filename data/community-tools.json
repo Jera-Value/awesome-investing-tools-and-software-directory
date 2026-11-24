@@ -8,5 +8,11 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Stock Radar",
+    "url": "https://stock-radar.org/mobile-app?lang=en&src=community",
+    "categories": ["Watchlist"],
+    "summary": "A mobile research app for exploring stock and ETF analysis and reviewing signal context when available. Market coverage and data freshness vary; it is educational research, not a broker or personalized financial advice."
   }
 ]
