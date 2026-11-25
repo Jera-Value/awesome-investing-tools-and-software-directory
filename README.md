@@ -1,4 +1,4 @@
-# 📈 362 Awesome Investing Tools & Software for Investors
+# 📈 363 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -32,7 +32,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
-| [📊 Research and Valuation](#-research-and-valuation) | 40 |
+| [📊 Research and Valuation](#-research-and-valuation) | 41 |
 
 ---
 
@@ -490,6 +490,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [TrendSpider](https://trendspider.com) — TrendSpider is a paid, browser-based analysis and automation platform for active traders who want automated technical analysis, multi-timeframe scanning, strategy testing, alerts, bots, AI tools, and alternative data in… ([research profile](https://www.findmymoat.com/tools/trendspider?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=trendspider))
 - [Visible Alpha](https://www.spglobal.com/market-intelligence/en/solutions/visible-alpha) — Visible Alpha, now part of S&P Global Market Intelligence, is an enterprise consensus and model-derived data platform built from full sell-side analyst models. It is useful for line-item estimates, segment/KPI… ([research profile](https://www.findmymoat.com/tools/visible-alpha?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=visible-alpha))
 - [Visual Capitalist](https://www.visualcapitalist.com) — Visual Capitalist is a publisher of data-rich infographics and explainers covering markets, commodities, technology, macroeconomics, and global business themes. It is strongest as visual context for research and… ([research profile](https://www.findmymoat.com/tools/visual-capitalist?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=visual-capitalist))
+- [WeightedShares](https://weightedshares.com) — Free, no-login SEC EDGAR XBRL tool for auditing U.S. stock buybacks vs. stock-based compensation (SBC), RSU tax withholdings, True FCF (FCF minus SBC), Form 4 insider selling, and 13F superinvestor portfolio dilution…
 - [Winus](https://www.winus.ai) — Winus is an AI-assisted financial research workspace for stock, market, macro, and cross-asset analysis. It is best evaluated as a source-traceable research assistant for finance professionals, not as a broker,… ([research profile](https://www.findmymoat.com/tools/winus?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=winus))
 
 [Back to contents](#contents)

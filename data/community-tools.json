@@ -8,5 +8,16 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "WeightedShares",
+    "url": "https://weightedshares.com",
+    "categories": [
+      "Financials",
+      "Screeners",
+      "Management Compensation",
+      "Improved Filings"
+    ],
+    "summary": "Free, no-login SEC EDGAR XBRL tool for auditing U.S. stock buybacks vs. stock-based compensation (SBC), RSU tax withholdings, True FCF (FCF minus SBC), Form 4 insider selling, and 13F superinvestor portfolio dilution across 10,400+ companies."
   }
 ]
