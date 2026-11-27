@@ -8,5 +8,16 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Uzun Vade",
+    "url": "https://uzunvade.net",
+    "categories": [
+      "Screeners",
+      "Financials",
+      "Calendar",
+      "Scores"
+    ],
+    "summary": "Free Turkish stock screener applying a 5-year quality gate (ROIC, FCF, net debt/EBITDA, Piotroski, dilution), a BIST-specific model for banks, REITs and holdings, historical valuation bands and a balance-sheet calendar."
   }
 ]
